@@ -1,0 +1,15 @@
+package com.example.demo.enable;
+
+import org.springframework.context.annotation.ImportSelector;
+import org.springframework.core.type.AnnotationMetadata;
+
+/**
+ * @description:
+ * @author: zxl
+ * @create: 2020-09-22 14:47
+ **/
+public class HelloWorldImportSelector implements ImportSelector {
+    @Override
+    public String[] selectImports(AnnotationMetadata annotationMetadata) {
+        return new String[]{HelloWorld.class.getName(),HelloWorld2.class.getName()};    }
+}
