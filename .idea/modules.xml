@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/learn/learn.iml" filepath="$PROJECT_DIR$/learn/learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn/bigdata/bigdata.iml" filepath="$PROJECT_DIR$/learn/bigdata/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/curator.iml" filepath="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/curator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn/java/java.iml" filepath="$PROJECT_DIR$/learn/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn/spring/spring.iml" filepath="$PROJECT_DIR$/learn/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/learn/springmvc/springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zxl.iml" filepath="$PROJECT_DIR$/.idea/zxl.iml" />

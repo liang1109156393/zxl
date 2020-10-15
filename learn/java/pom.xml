@@ -8,10 +8,10 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bigdata</groupId>
-	<artifactId>bigdata</artifactId>
+	<groupId>com.basic.java</groupId>
+	<artifactId>java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bigdata</name>
+	<name>java</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
