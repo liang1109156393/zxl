@@ -7,15 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java" />
-        <module name="curator" />
+        <module name="springmvc" />
         <module name="spring" />
         <module name="bigdata" />
-        <module name="springmvc" />
+        <module name="curator" />
+        <module name="flink-basis-java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bigdata" target="1.8" />
       <module name="curator" target="8" />
+      <module name="flink-basis-java" target="1.8" />
       <module name="java" target="1.8" />
       <module name="learn" target="1.8" />
       <module name="spring" target="1.8" />

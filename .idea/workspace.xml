@@ -2,1112 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ebece6-6dbd-489a-9074-5aa6d0ff4d61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_11_0_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_clients_2_11_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_core_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_java_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_optimizer_2_11_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_runtime_2_11_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_6_6_2_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_18_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_9_8_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_32_Final_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_2_11_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_force_shading_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clapper_grizzled_slf4j_2_11_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/resources/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-java/flink-basis-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-java/src/main/java/com/heibaiying/StreamingJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/java/com/heibaiying/StreamingJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-java/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-java/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-scala/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/flink-basis-scala.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-scala/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-kafka-integration/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/src/main/resources/wordcount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-scala/src/main/resources/wordcount.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/src/main/scala/com/heibaiying/WordCountBatch.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-scala/src/main/scala/com/heibaiying/WordCountBatch.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/src/main/scala/com/heibaiying/WordCountStreaming.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-scala/src/main/scala/com/heibaiying/WordCountStreaming.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-state-management/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-basis-scala/target/classes/wordcount.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/flink-kafka-integration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-kafka-integration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/src/main/java/com/heibaiying/CustomSinkJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-kafka-integration/src/main/java/com/heibaiying/CustomSinkJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/src/main/java/com/heibaiying/KafkaStreamingJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-kafka-integration/src/main/java/com/heibaiying/KafkaStreamingJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/src/main/java/com/heibaiying/bean/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-kafka-integration/src/main/java/com/heibaiying/bean/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/src/main/java/com/heibaiying/sink/FlinkToMySQLSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-kafka-integration/src/main/java/com/heibaiying/sink/FlinkToMySQLSink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-kafka-integration/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/flink-state-management.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-state-management/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/src/main/java/com/heibaiying/keyedstate/KeyedStateJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-state-management/src/main/java/com/heibaiying/keyedstate/KeyedStateJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/src/main/java/com/heibaiying/keyedstate/ThresholdWarning.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-state-management/src/main/java/com/heibaiying/keyedstate/ThresholdWarning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/src/main/java/com/heibaiying/keyedstate/ThresholdWarningWithTTL.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-state-management/src/main/java/com/heibaiying/keyedstate/ThresholdWarningWithTTL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/src/main/java/com/heibaiying/operatorstate/OperatorStateJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-state-management/src/main/java/com/heibaiying/operatorstate/OperatorStateJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/src/main/java/com/heibaiying/operatorstate/ThresholdWarning.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-state-management/src/main/java/com/heibaiying/operatorstate/ThresholdWarning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Flink/flink-state-management/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/hadoop-word-count.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/WordCountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/WordCountApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/WordCountCombinerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/WordCountCombinerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/WordCountCombinerPartitionerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/WordCountCombinerPartitionerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/component/CustomPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/component/CustomPartitioner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/component/WordCountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/component/WordCountMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/component/WordCountReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/component/WordCountReducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/utils/WordCountDataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/java/com/heibaiying/utils/WordCountDataUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hadoop-word-count/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hadoop-word-count/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hdfs-java-api/hdfs-java-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hdfs-java-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hdfs-java-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hdfs-java-api/src/main/java/com/heibaiying/utils/HdfsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hdfs-java-api/src/main/java/com/heibaiying/utils/HdfsUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hdfs-java-api/src/test/java/HdfsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hadoop/hdfs-java-api/src/test/java/HdfsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hdfs-java-api/target/test-classes/HdfsTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hadoop/hdfs-java-api/target/test-classes/HdfsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-1.x/hbase-java-api-1.x.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-1.x/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-java-api-1.x/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-1.x/src/main/java/com/heibaiying/HBaseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-java-api-1.x/src/main/java/com/heibaiying/HBaseUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-1.x/src/test/java/com/heibaiying/HbaseUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-java-api-1.x/src/test/java/com/heibaiying/HbaseUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-2.x/hbase-java-api-2.x.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-2.x/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-java-api-2.x/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-2.x/src/main/java/com/heibaiying/HBaseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-java-api-2.x/src/main/java/com/heibaiying/HBaseUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-java-api-2.x/src/test/java/heibaiying/HBaseUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-java-api-2.x/src/test/java/heibaiying/HBaseUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-observer-coprocessor/hbase-observer-coprocessor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-observer-coprocessor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-observer-coprocessor/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Hbase/hbase-observer-coprocessor/src/main/java/com/heibaiying/AppendRegionObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Hbase/hbase-observer-coprocessor/src/main/java/com/heibaiying/AppendRegionObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/kafka-basis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerASyn.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerASyn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerASynAndSyn.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerASynAndSyn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerASynWithOffsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerASynWithOffsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerExit.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerExit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerSyn.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/ConsumerSyn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/RebalanceListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/RebalanceListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/StandaloneConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/consumers/StandaloneConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/ProducerASyn.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/ProducerASyn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/ProducerSyn.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/ProducerSyn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/ProducerWithPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/ProducerWithPartitioner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/SimpleProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/SimpleProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/partitioners/CustomPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Kafka/kafka-basis/src/main/java/com/heibaiying/producers/partitioners/CustomPartitioner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-boot-mybatis-phoenix/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/spring-boot-mybatis-phoenix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/src/main/java/com/heibaiying/springboot/SpringBootMybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-boot-mybatis-phoenix/src/main/java/com/heibaiying/springboot/SpringBootMybatisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/src/main/java/com/heibaiying/springboot/bean/USPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-boot-mybatis-phoenix/src/main/java/com/heibaiying/springboot/bean/USPopulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/src/main/java/com/heibaiying/springboot/dao/PopulationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-boot-mybatis-phoenix/src/main/java/com/heibaiying/springboot/dao/PopulationDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-boot-mybatis-phoenix/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/src/test/java/com/heibaiying/springboot/PopulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-boot-mybatis-phoenix/src/test/java/com/heibaiying/springboot/PopulationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-boot-mybatis-phoenix/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/spring-mybatis-phoenix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/src/main/java/com/heibaiying/bean/USPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/src/main/java/com/heibaiying/bean/USPopulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/src/main/java/com/heibaiying/dao/PopulationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/src/main/java/com/heibaiying/dao/PopulationDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/src/main/resources/mappers/Population.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/src/main/resources/mappers/Population.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/src/main/resources/mybatisConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/src/main/resources/mybatisConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/src/main/resources/springApplication.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/src/main/resources/springApplication.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/src/test/java/com/heibaiying/dao/PopulationDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Phoenix/spring-mybatis-phoenix/src/test/java/com/heibaiying/dao/PopulationDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/target/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/target/classes/mappers/Population.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/target/classes/mybatisConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Phoenix/spring-mybatis-phoenix/target/classes/springApplication.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hbase-integration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hbase-integration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hbase-integration/src/main/java/com/heibaiying/WordCountToHBaseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hbase-integration/src/main/java/com/heibaiying/WordCountToHBaseApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hbase-integration/src/main/java/com/heibaiying/component/CountBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hbase-integration/src/main/java/com/heibaiying/component/CountBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hbase-integration/src/main/java/com/heibaiying/component/DataSourceSpout.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hbase-integration/src/main/java/com/heibaiying/component/DataSourceSpout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hbase-integration/src/main/java/com/heibaiying/component/SplitBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hbase-integration/src/main/java/com/heibaiying/component/SplitBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hbase-integration/storm-hbase-integration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hdfs-integration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hdfs-integration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hdfs-integration/src/main/java/com.heibaiying/DataToHdfsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hdfs-integration/src/main/java/com.heibaiying/DataToHdfsApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hdfs-integration/src/main/java/com.heibaiying/component/DataSourceSpout.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-hdfs-integration/src/main/java/com.heibaiying/component/DataSourceSpout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-hdfs-integration/storm-hdfs-integration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-kafka-integration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-kafka-integration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/read/LogConsoleBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/read/LogConsoleBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/read/ReadingFromKafkaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/read/ReadingFromKafkaApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/write/DataSourceSpout.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/write/DataSourceSpout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/write/WritingToKafkaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-kafka-integration/src/main/java/com/heibaiying/kafka/write/WritingToKafkaApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-kafka-integration/storm-kafka-integration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/src/main/java/com/heibaiying/CustomRedisCountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/src/main/java/com/heibaiying/CustomRedisCountApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/src/main/java/com/heibaiying/WordCountToRedisApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/src/main/java/com/heibaiying/WordCountToRedisApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/CountBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/CountBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/DataSourceSpout.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/DataSourceSpout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/RedisCountStoreBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/RedisCountStoreBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/SplitBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/SplitBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/WordCountStoreMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-redis-integration/src/main/java/com/heibaiying/component/WordCountStoreMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-redis-integration/storm-redis-integration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-word-count/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/ClusterWordCountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/ClusterWordCountApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/LocalWordCountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/LocalWordCountApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/component/CountBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/component/CountBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/component/DataSourceSpout.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/component/DataSourceSpout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/component/SplitBolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-word-count/src/main/java/com/heibaiying/wordcount/component/SplitBolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/src/main/resources/assembly.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Storm/storm-word-count/src/main/resources/assembly.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/storm-word-count.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Storm/storm-word-count/target/classes/assembly.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Zookeeper/curator/curator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Zookeeper/curator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Zookeeper/curator/src/main/java/com/heibaiying/AclOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/src/main/java/com/heibaiying/AclOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/Zookeeper/curator/src/main/java/com/heibaiying/BasicOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/src/main/java/com/heibaiying/BasicOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-basis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-basis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-basis/spark-streaming-basis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-basis/src/main/java/com/heibaiying/NetworkWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-basis/src/main/java/com/heibaiying/NetworkWordCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-basis/src/main/java/com/heibaiying/NetworkWordCountToRedis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-basis/src/main/java/com/heibaiying/NetworkWordCountToRedis.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-basis/src/main/java/com/heibaiying/NetworkWordCountV2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-basis/src/main/java/com/heibaiying/NetworkWordCountV2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-basis/src/main/java/com/heibaiying/utils/JedisPoolUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-basis/src/main/java/com/heibaiying/utils/JedisPoolUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-flume/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-flume/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-flume/spark-streaming-flume.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-flume/src/main/scala/com/heibaiying/flume/PullBasedWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-flume/src/main/scala/com/heibaiying/flume/PullBasedWordCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-flume/src/main/scala/com/heibaiying/flume/PushBasedWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-flume/src/main/scala/com/heibaiying/flume/PushBasedWordCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-kafka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-kafka/spark-streaming-kafka.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/code/spark/spark-streaming-kafka/src/main/scala/com/heibaiying/kafka/KafkaDirectStream.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/spark/spark-streaming-kafka/src/main/scala/com/heibaiying/kafka/KafkaDirectStream.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Azkaban_Flow_1.0_的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Azkaban_Flow_1.0_的使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Azkaban_Flow_2.0_的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Azkaban_Flow_2.0_的使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Azkaban简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Azkaban简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flink_Data_Sink.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flink_Data_Sink.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flink_Data_Source.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flink_Data_Source.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flink_Data_Transformation.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flink_Data_Transformation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flink_Windows.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flink_Windows.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flink开发环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flink开发环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flink核心概念综述.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flink核心概念综述.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flink状态管理与检查点机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flink状态管理与检查点机制.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flume整合Kafka.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flume整合Kafka.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Flume简介及基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Flume简介及基本使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/HDFS-Java-API.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/HDFS-Java-API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/HDFS常用Shell命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/HDFS常用Shell命令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hadoop-HDFS.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hadoop-HDFS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hadoop-MapReduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hadoop-MapReduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hadoop-YARN.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hadoop-YARN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase_Java_API.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase_Java_API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase_Shell.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase_Shell.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase协处理器详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase协处理器详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase容灾与备份.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase容灾与备份.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase的SQL中间层_Phoenix.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase的SQL中间层_Phoenix.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase系统架构及数据结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase系统架构及数据结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hbase过滤器详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hbase过滤器详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/HiveCLI和Beeline命令行的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/HiveCLI和Beeline命令行的基本使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hive分区表和分桶表.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hive分区表和分桶表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hive常用DDL操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hive常用DDL操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hive常用DML操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hive常用DML操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hive数据查询详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hive数据查询详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hive简介及核心概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hive简介及核心概念.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Hive视图和索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Hive视图和索引.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Kafka消费者详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Kafka消费者详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Kafka深入理解分区副本机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Kafka深入理解分区副本机制.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Kafka生产者详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Kafka生产者详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Kafka简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Kafka简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala函数和闭包.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala函数和闭包.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala列表和集.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala列表和集.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala基本数据类型和运算符.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala基本数据类型和运算符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala数组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala映射和元组.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala映射和元组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala模式匹配.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala模式匹配.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala流程控制语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala流程控制语句.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala简介及开发环境配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala简介及开发环境配置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala类和对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala类和对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala类型参数.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala类型参数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala继承和特质.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala继承和特质.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala隐式转换和隐式参数.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala隐式转换和隐式参数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Scala集合类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Scala集合类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/SparkSQL_Dataset和DataFrame简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/SparkSQL_Dataset和DataFrame简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/SparkSQL外部数据源.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/SparkSQL外部数据源.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/SparkSQL常用聚合函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/SparkSQL常用聚合函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/SparkSQL联结操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/SparkSQL联结操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark_RDD.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark_RDD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark_Streaming与流处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark_Streaming与流处理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark_Streaming基本操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark_Streaming基本操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark_Streaming整合Flume.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark_Streaming整合Flume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark_Streaming整合Kafka.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark_Streaming整合Kafka.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark_Structured_API的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark_Structured_API的基本使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark_Transformation和Action算子.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark_Transformation和Action算子.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark累加器与广播变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark累加器与广播变量.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spark部署模式与作业提交.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spark部署模式与作业提交.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Spring+Mybtais+Phoenix整合.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Spring+Mybtais+Phoenix整合.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Sqoop基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Sqoop基本使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Sqoop简介与安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Sqoop简介与安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Storm三种打包方式对比分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Storm三种打包方式对比分析.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Storm和流处理简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Storm和流处理简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Storm核心概念详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Storm核心概念详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Storm编程模型详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Storm编程模型详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Storm集成HBase和HDFS.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Storm集成HBase和HDFS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Storm集成Kakfa.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Storm集成Kakfa.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Storm集成Redis详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Storm集成Redis详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Zookeeper_ACL权限控制.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Zookeeper_ACL权限控制.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Zookeeper_Java客户端Curator.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Zookeeper_Java客户端Curator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Zookeeper常用Shell命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Zookeeper常用Shell命令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/Zookeeper简介及核心概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/Zookeeper简介及核心概念.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Azkaban_3.x_编译及部署.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Azkaban_3.x_编译及部署.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Flink_Standalone_Cluster.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Flink_Standalone_Cluster.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/HBase单机环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/HBase单机环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/HBase集群环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/HBase集群环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Hadoop单机环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Hadoop单机环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Hadoop集群环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Hadoop集群环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Linux下Flume的安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Linux下Flume的安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Linux下JDK安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Linux下JDK安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Linux下Python安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Linux下Python安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Linux环境下Hive的安装部署.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Linux环境下Hive的安装部署.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Spark开发环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Spark开发环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Spark集群环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Spark集群环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Storm单机环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Storm单机环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Storm集群环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Storm集群环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/Zookeeper单机环境和集群环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/Zookeeper单机环境和集群环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/基于Zookeeper搭建Hadoop高可用集群.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/基于Zookeeper搭建Hadoop高可用集群.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/基于Zookeeper搭建Kafka高可用集群.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/基于Zookeeper搭建Kafka高可用集群.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/installation/虚拟机静态IP及多IP配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/installation/虚拟机静态IP及多IP配置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/大数据学习路线.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/大数据学习路线.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/大数据常用软件安装指南.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/大数据常用软件安装指南.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/大数据应用常用打包方式.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/大数据应用常用打包方式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/大数据技术栈思维导图.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/大数据技术栈思维导图.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/notes/资料分享与工具推荐.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/notes/资料分享与工具推荐.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/01_data_at_rest_infrastructure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/02_stream_processing_infrastructure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/CustomRedisCountApp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Detailed-Hadoop-MapReduce-Data-Flow-14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Figure3Architecture-of-YARN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HADOOP-ECOSYSTEM-Edureka.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBaseArchitecture-Blog-Fig1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBaseArchitecture-Blog-Fig2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBaseArchitecture-Blog-Fig3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBaseArchitecture-Blog-Fig4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBaseArchitecture-Blog-Fig5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBaseArchitecture-Blog-Fig6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBaseArchitecture-Blog-Fig7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HBase_table-iteblog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HDFS-HA-Architecture-Edureka.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/HashMap-HashTable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Internal-Working-of-Apache-Storm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Phoenix-create-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Phoenix-delete.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Phoenix-hadoop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Phoenix-java-api-result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Phoenix-select.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Phoenix-update.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/RegionObserver.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/RegionObservers-works.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/Stream groupings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/WordCountToHBaseApp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/akaban-jps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-click-edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-create-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-dependencies.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-embeded-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-embeded-success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-execute.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-flows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-gradle-wrapper-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-gradle-wrapper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-hdfs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-hive-result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-hive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-log.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-memory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-mr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-project-edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-setting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-simle-result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-simple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-successed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-task-abcde-zip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-task-abcde.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-web-ui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban-zip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/azkaban.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/bigdata-notes-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/bigdata-notes-icon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/curator-retry-policy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/datasourcetohdfs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/deprecated.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-Rescaling.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-RichParallelSourceFunction.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-api-stack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-application-submission.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-basis-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-bounded-unbounded.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-checkpoints-backend.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-dashboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-kafka-datasource-console.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-kafka-datasource-producer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-kafka-producer-consumer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-keyed-state.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-lib.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-maven-new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-maven-profile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-maven.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-mysql-sink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-non-windowed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-on-yarn-session.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-operator-state-para1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-operator-state-para2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-operator-state.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-optional-components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-process.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-richsink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-scala-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-session-windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-sliding-windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-socket-wordcount-stdout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-socket-wordcount.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-stack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-standalone-cluster-ha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-standalone-cluster-jps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-standalone-cluster.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-start-cluster-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-state-management.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-stateful-stream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-stream-barriers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-subtask-slots.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-task-parallelism.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-task-subtask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-tasks-slots.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-tumbling-windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-window-word-count.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-word-count.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink-yarn-session.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-architecture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-consolidation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-example-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-example-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-example-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-example-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-example-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-example-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-example-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-kafka-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-kafka-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-kafka.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-multi-agent-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-multiplexing-the-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-retry.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume-version.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/flume.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/future-of-spark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-QJM-同步机制.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-code-mapping.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-code-partitation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-code-reducer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-combiner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-ha高可用集群架构.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-namenode主备切换.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-no-combiner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-rm-ha-overview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-wordcountapp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-wordcountcombinerpartition.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-yarn安装验证.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-集群搭建2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-集群搭建3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop-集群环境搭建.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop安装验证.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop集群规划.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop高可用集群1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop高可用集群2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop高可用集群3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop高可用集群4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop高可用集群5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hadoop高可用集群规划.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-60010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-Region-Server.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-arc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-bytearraycomparable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-co-unload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-compareFilter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-connection.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-coprocessor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-copy-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-cp-hdfs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-cp-helloworld.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-cp-lisi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-cp-load.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-filterbase-subclass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-fliter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-hadoop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-region-dis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-region-splite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-unload-test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-web-ui-phoenix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-web-ui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-webtable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-集群搭建1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase-集群搭建2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hbase集群规划.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-read-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-tolerance-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-tolerance-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-tolerance-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-tolerance-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-tolerance-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-write-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-write-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-write-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfs-机架.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfsarchitecture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hdfsdatanodes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-1-2-view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-beeline-cli.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-beeline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-data-type.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-emp-deptno-20-30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-emp-deptno-20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-emp-ptn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-emp-ts-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-emp-ts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-emp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-external-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-hadoop-bucket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-hadoop-mapreducer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-hadoop-partitation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-index-show.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-index-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-install-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-mysql-tables.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-mysql.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-n-j.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-order-by.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-ouput.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-right-join.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-select-emp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-show-database.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive-view-properties.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/hive体系架构.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/idea-newproject-scala.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/idea-scala-2.1.8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/idea-scala-change.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/idea-scala-plugin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/idea-scala-select.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/ifconfig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/ipconfig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/jar-with-dependencies.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-BIO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-cluster-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-cluster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-compress-message.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-consumer01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-consumer02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-producer-consumer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-send-messgaes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-simple-producer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-topic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-元数据请求.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-分区副本.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-数据可见性.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka-零拷贝.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/kafka消费者.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/mapreduce-combiner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/mapreduce-sort.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/mapreduce-with-combiners.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/mapreduce-without-combiners.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/mapreduceProcess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/mutli-net-ip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/oozie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/phoenix-core-jar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/phoenix-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/readfromkafka.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/relationships-worker-processes-executors-tasks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-collection-imm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-collection-m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-collection.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-hello-world.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-int+.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-ordered-ordering.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-other-resources.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-plugin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-richInt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-sdk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-select.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-分区数.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-操作符优先级.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala-视图界定.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala带有特质的对象.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/scala继承层次.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-Big-table–to–big-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-Big-table–to–small-table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-DAG.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-Logical-Planning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-Physical-Planning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-Standalone-web-ui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-aggregateByKey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-dataFrame+RDDs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-flume-console.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-flume-input.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-getpartnum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-mysql-分区上下限.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-pi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-reducebykey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-scheme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-shell-local.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-shell-web-ui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-sql-NATURAL-JOIN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-sql-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-sql-自定义函数.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-stack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-straming-kafka-console.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-streaming-arch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-streaming-dstream-ops.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-streaming-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-streaming-flume-jar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-streaming-word-count-v1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-streaming-word-count-v2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-streaming-word-count-v3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-structure-api.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-unifed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-web-ui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-内存不足.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-内存不足2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-分区.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-窄依赖和宽依赖.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-累加器1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-累加器2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-累加器方法.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-运行安全.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-运行时类型安全.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-集群搭建1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-集群搭建2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-集群搭建3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-集群搭建4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-集群搭建5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark-集群模式.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spark集群规划.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spout-bolt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spring-boot-mybatis-phoenix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/spring-mybatis-phoenix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sql-hive-arch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sql-join.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-help.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-hive-hdfs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-hive-location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-list-databases.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-map-task.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-mysql-connect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-mysql-jar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-tool.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-version-selected.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop-version.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop_hbase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop_hdfs_ls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop_hive_error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop_hive_success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop_hive_table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/sqoop_hive_tables.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/store-redis-manager.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-Redis-Mapper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-abstractRedisBolt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-baseRichSpout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-baseRichbolt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-bolts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-hbase-result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-hdfs-result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-jar-complie-error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-jar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-jar2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-jedicCommands.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-kafka-producer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-kafka-receiver.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-lib.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-list-kill.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-package-error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-spouts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-streams.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-submit-success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-topology.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-tuples.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-ui-actions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-web-ui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-word-count-console.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-word-count-p.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-wordcounttoredis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-集群-shell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-集群搭建1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm-集群规划.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm集群.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/storm集群搭建2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/streaming-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/strom-kafka-consumer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/topology-tasks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/virtualbox-multi-network.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/virtualbox启用网络.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/writetokafka.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/yarn-base.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/yarn工作原理.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/yarn工作原理简图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-brocast.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-cluster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-hadoop001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-hadoop002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-hadoop003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-super.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-zkcomponents.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-zknamespace.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper-zkservice.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/zookeeper.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/大数据处理简化流程.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/大数据技术栈思维导图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/pictures/大数据技术栈思维导图.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/core-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/core-site.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/csv/dept.csv" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/csv/dept.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/hdfs-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/hdfs-site.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/json/dept.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/json/dept.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/json/emp.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/json/emp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/mysql-connector-java-5.1.47.jar" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/mysql-connector-java-5.1.47.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/orc/dept.orc" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/orc/dept.orc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/parquet/dept.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/parquet/dept.parquet" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/parquet/emp.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/parquet/emp.parquet" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/tsv/dept.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/tsv/dept.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/tsv/emp.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/tsv/emp.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/txt/dept.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/txt/dept.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bigdata/resources/txt/emp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/resources/txt/emp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/HomePage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/_coverpage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/ThreadPoolExecutorDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/META-INF/ThreadPoolExecutorDemo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/callable/CallableDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/callable/MyCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/common/ThreadPoolConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/scheduledThreadPoolExecutor/ScheduledThreadPoolExecutorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/scheduledThreadPoolExecutor/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/threadPoolExecutor/MyRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/out/production/ThreadPoolExecutorDemo/threadPoolExecutor/ThreadPoolExecutorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/src/callable/CallableDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/src/callable/MyCallable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/src/common/ThreadPoolConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/src/threadPoolExecutor/MyRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/ThreadPoolExecutorDemo/src/threadPoolExecutor/ThreadPoolExecutorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/JdkProxy/dynamicProxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/dynamicProxy/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/JdkProxy/dynamicProxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/dynamicProxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/JdkProxy/staticProxy/IUserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/staticProxy/IUserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/JdkProxy/staticProxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/staticProxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/JdkProxy/staticProxy/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/staticProxy/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/JdkProxy/staticProxy/UserDaoProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/staticProxy/UserDaoProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/cglib/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/cglib/RoleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/RoleDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/code/java/proxy/cglib/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/0d6e5484-aea1-41cc-8417-4694c6028012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/18f7bbcf-7de7-49f5-b16b-f56b5185370a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/20893364-3cc6-4fe5-8cb6-4bed676ce7bd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/2bb7f878-3514-4f10-99c9-7850318b33a9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/3900e43f-c591-4748-acaf-affcb16d7d9d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/3d2e12ad-b92e-4bb5-b330-f515750ff780.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/4b337376-e90d-4fdf-9a95-a3fac328b416.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/4fd57829-82a9-4bf4-853a-56bd7413923a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/5d94f552-5815-4b9e-aed4-623b88273355.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/7001a206-8ac0-432c-bf62-ca7130487c12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/74a29a45-b770-4fd5-8480-c46bd72464a9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/7ab7af22-d9ff-4fa8-9ffb-f5ba73e8b128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/7e80418d-20b1-4066-b9af-cfe434b1bf1a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/8ece325c-4491-4ffd-9d3d-77e95159ec40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/9b472b41-391d-42de-a210-1457c5810618.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/b4c03ec2-f907-47a4-ad19-731c969a499b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/c7164eae-8509-4de4-af17-97933fb29f99.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/c8188444-68ba-4b86-a22e-d3b2bb3565d6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/e2ed7d6a-1c08-4148-99f9-d284b8a7a4c1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/e7e11e32-a931-4261-804f-9586ec4f8476.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/f16ae5d5-56a0-4b32-8e84-fb10157f3f0c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/format,png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/s29925598.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/s32277130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/images/s32282160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/java.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/books/java基础篇.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/Backtracking-NQueens.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/data-structure/bloom-filter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/剑指Offer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/啊哈!算法.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/我的第一本算法书.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/程序员代码面试指南.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/算法-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/算法图解.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/算法导论.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/算法设计手册.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/编程之美.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/编程珠玑.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/images/计算机程序设计艺术.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/公司真题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/几道常见的子符串算法题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/几道常见的链表算法题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/剑指offer部分编程题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/数据结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/dataStructures-algorithms/算法学习资源推荐.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/MySQL Index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/MySQL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/MySQL高性能优化规范建议.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/Redis持久化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/Redlock分布式锁.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis-list.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis-list.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis-rollBack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis-vs-memcached.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis4.0-more-thread.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis事件处理器.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis事务.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/redis过期时间.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/try-redis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/what-is-redis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/使用缓存之后.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/加入布隆过滤器后的缓存处理流程.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/单体架构.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/缓存的处理流程.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/缓存穿透情况.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/images/redis-all/集中式缓存架构.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/redis-all.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/redis集群以及应用场景.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/some-concepts-of-caching.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/一千行MySQL命令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/一条sql语句在mysql中如何执行的.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/事务隔离级别(图文详解).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/关于数据库存储时间的一点思考.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/数据库索引.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/数据库连接池.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/database/阿里巴巴开发手册数据库部分的一些最佳实践.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/BATJrealInterviewExperience/2019alipay-pinduoduo-toutiao.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/BATJrealInterviewExperience/2020-zijietiaodong.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/BATJrealInterviewExperience/5面阿里,终获offer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/BATJrealInterviewExperience/bingo-interview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/BATJrealInterviewExperience/蚂蚁金服实习生面经总结(已拿口头offer).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/PreparingForInterview/应届生面试最爱问的几道Java基础问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/PreparingForInterview/面试官-你有什么问题要问我.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/real-interview-experience-analysis/alibaba-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/手把手教你用Markdown写一份高质量的简历.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/简历模板.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/BIO-NIO-AIO.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/J2EE基础知识.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/JAD反编译tricks.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Java IO与NIO.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Java基础知识.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Java疑难点.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Java编程规范.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/AQS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/Atomic.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/ThreadLocal.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/ThreadLocal（未完成）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/Untitled.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/best-practice-of-threadpool.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/ThreadLocal内部类.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/interview-questions/synchronized关键字.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-local/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-pool/19a0255a-6ef3-4835-98d1-a839d1983332.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-pool/1bc44c67-26ba-42ab-bcb8-4e29e6fd99b9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-pool/5b9b814d-722a-4116-b066-43dc80fc1dc4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-pool/7888fb0d-4699-4d3a-8885-405cb5415617.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-pool/b6fd95a7-4c9d-4fc6-ad26-890adb3f6c4c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/thread-pool/ddf22709-bff5-45b4-acb7-a3f2e6798608.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/threadlocal数据结构.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/多线程学习指南/Java并发编程的艺术.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/多线程学习指南/javaguide-并发.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/多线程学习指南/java并发编程之美.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/多线程学习指南/实战Java高并发程序设计.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/images/多线程学习指南/深入浅出Java多线程.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/java线程池学习总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/synchronized在JDK1.6之后的底层优化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/创建线程的几种方式总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/多线程学习指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/Multithread/并发容器总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/What's New in JDK8/Java8Tutorial.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/What's New in JDK8/Java8foreach指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/What's New in JDK8/Java8教程推荐.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/basic/Arrays,CollectionsCommonMethods.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/basic/final,static,this,super.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/basic/java-proxy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/basic/reflection.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/basic/用好Java中的枚举真的没有那么简单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/ArrayList-Grow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/ArrayList.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/ConcurrentHashMap.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/HashMap.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/Java集合框架常见面试题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/LinkedList.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/77c95eb733284dbd8ce4e85c9cb6b042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/Java-Collections.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/TreeMap继承结构.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/ad28e3ba-e419-4724-869c-73879e604da1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/image-20200405151029416.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/java8_concurrenthashmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/jdk1.8之前的内部结构-HashMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/collection/images/jdk1.8之后的内部结构-HashMap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/Java异常类层次结构图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/Java异常类层次结构图2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/image-20200405151029416.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/images/performance-tuning/java-performance8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/java-naming-conventions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/java-programming-problem/Java程序设计题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/java-programming-problem/a-thread-safe-implementation-of-lru-cache.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jdk-new-features/images/fc66979f-7974-40e8-88ae-6dbff15ac9ef.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jdk-new-features/new-features-from-jdk8-to-jdk14.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/GC调优参数.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/JDK监控和故障处理工具总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/JVM垃圾回收.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/Java内存区域.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/[加餐]大白话带你认识JVM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/jvm 知识点汇总.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/HsJXU8S4oVtCTM7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/2019-3Java运行时数据区域JDK1.8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/2019-3String-Pool-Java1-450x249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/JVM堆内存结构-JDK7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/JVM堆内存结构-jdk8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/JVM运行时数据区域.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/Java创建对象的过程.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/内存分配的两种方式.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/字符串拼接-常量池2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/java内存区域/对象的访问定位-直接指针.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jdk监控和故障处理工具总结/1JConsole连接.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jdk监控和故障处理工具总结/2查看Java程序概况.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jdk监控和故障处理工具总结/3内存监控.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jdk监控和故障处理工具总结/4线程监控.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/01d330d8-2710-4fad-a91c-7bbbfaaefc0e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/10317146.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/11034259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/22018368.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/22018368213213.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/25178350.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/29176325.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/46873026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/72762049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/82825079.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/90984624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/94057049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/CMS收集器.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/parllel-scavenge收集器.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/垃圾收集器.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/垃圾收集算法.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/堆内存.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/jvm垃圾回收/标记-清除算法.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/pictures/内存区域常见配置参数.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/最重要的JVM参数指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/类加载器.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/类加载过程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/jvm/类文件结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/多线程系列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/java/手把手教你定位常见Java性能问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/javaguide面试突击版.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/network/HTTPS中的TLS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/network/干货：计算机网络知识总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/network/计算机网络.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_IO.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/image-20200604180850391.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/image-20200604180851790.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/image-20200604181133355.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/image-20200604203027136.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/image-20200605104607007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/iostat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/linux_xn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/tcp_close.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/tcp_conn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/tcpclose.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux_performance/tcpconn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Linux性能分析工具合集.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/Shell.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/basis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/Linux-Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/Linux之父.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/Linux权限命令.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/Linux权限解读.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/Linux目录树.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/linux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/macos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/unix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/修改文件权限.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/文件inode信息.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/images/用户态与内核态.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/linux.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/operating-system/完全使用GNU_Linux学习.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/questions/java-big-data.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/questions/java-learning-path-and-methods.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/questions/java-learning-website-blog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/questions/java-training-4-month.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/authority-certification/JWT-advantages-and-disadvantages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/authority-certification/basis-of-authority-certification.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/authority-certification/sso.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/Kafka入门看这一篇就够了.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/RocketMQ-Questions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/RocketMQ.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/dubbo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/kafka-inverview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/message-queue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/rabbitmq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/data-communication/why-use-rpc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/mybatis/mybatis-interview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/Spring-Design-Patterns.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/Spring.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/SpringBean.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/SpringInterviewQuestions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/SpringMVC-Principle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/images/spring-transaction/a616b84d-9eea-4ad1-b4fc-461ff05e951d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/images/spring-transaction/ae964c2c-7289-441c-bddd-511161f51ee1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/images/spring-transaction/bda7231b-ab05-4e23-95ee-89ac90ac7fcf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/images/spring-transaction/ed279f05-f5ad-443e-84e9-513a9e777139.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/images/spring-transaction/f6c6f0aa-0f26-49e1-84b3-7f838c7379d1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/spring-annotations.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/spring/spring-transaction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/images/curator.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/images/watche机制.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/images/znode-structure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/images/zookeeper集群.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/images/zookeeper集群中的角色.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/images/连接ZooKeeper服务.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/zookeeper-in-action.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/zookeeper-intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/framework/zookeeper/zookeeper-plus.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/micro-service/API网关.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/micro-service/api-gateway-intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/micro-service/limit-request.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/micro-service/spring-cloud.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/micro-service/分布式id生成方案总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/naming.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/Codelf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/Session-Based-Authentication-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/Token-Based-Authentication.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/authentication.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/authorization.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/cookie-sessionId.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/dubbo-naming.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/marting-naming.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/naming-mindmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/session-cookie-intro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/vscode-codelf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/pictures/微信支付-fnglfdlgdfj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/restful-api.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/website-architecture/8 张图读懂大型网站技术架构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/website-architecture/关于大型网站系统架构你不得不懂的10个问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/website-architecture/分布式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/website-architecture/如何设计一个高可用系统？要考虑哪些地方？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/system-design/设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/tools/Docker-Image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/tools/Docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/tools/阿里云服务器使用经验.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/update-history.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/docs/公众号历史文章汇总.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/database/B+树.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/database/B+树二级索引(辅助索引).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/database/B+树索引.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/database/B+树覆盖索引.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/database/Mysql索引文件截图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/database/联合索引(多列索引).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/database/联合索引之查询条件生效.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/linux_io/BIO原理.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/linux_io/IO多路复用原理.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/linux_io/NIO原理.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/linux_io/信号驱动IO原理.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/linux_io/异步IO原理.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/linux_io/用户态与内核态.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/my-lru-cache/ConcurrentLinkedQueue-Diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/my-lru-cache/MyLRUCachePut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/java/my-lru-cache/ScheduledThreadPoolExecutor-diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/jvm/java_jvm_compose_garbage_collector.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/jvm/java_jvm_garbage_collector_parameters.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/jvm/java_jvm_heap_parameters.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/jvm/java_jvm_suggest_parameters.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/Broker和集群.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/Partition与消费模型.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/kafka存在文件系统上.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/segment是kafka文件存储的最小单位.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/主题与分区.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/前言.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/发送消息.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/启动服务.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/消费者设计概要1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/消费者设计概要2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/消费者设计概要3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/消费者设计概要4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/消费者设计概要5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/生产者和消费者.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/kafka/生产者设计概要.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/Debian10下IDEA的Markdown预渲染解决后.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/Debian10下IDEA的Markdown预渲染问题.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/Fcitx候选框定位问题.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/Linux目录.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/我的电脑配置.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/文件inode信息.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/用户态与内核态.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/目录文件.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/linux/软链接和硬链接.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/pictures/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/sponsor/lagou-new.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/sponsor/wangyi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/media/sponsor/xiangxue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/submission.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/sw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaGuide-master/其他/开源项目源码阅读指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/java/com/heibaiying/StreamingJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/java/com/heibaiying/StreamingJob.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/learn/spring/target/" />
     <ignored path="$PROJECT_DIR$/learn/springmvc/target/" />
@@ -1115,6 +59,7 @@
     <ignored path="$PROJECT_DIR$/learn/java/target/" />
     <ignored path="$PROJECT_DIR$/learn/bigdata/target/" />
     <ignored path="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/target/" />
+    <ignored path="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1127,41 +72,26 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/pom.xml">
+        <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/java/JavaApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="66">
+              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
             </state>
           </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/src/main/java/com/heibaiying/AclOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="22" column="3" selection-start-line="22" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/bigdata/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/java/com/heibaiying/StreamingJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+            <state relative-caret-position="-66">
+              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/resources/out">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -1181,6 +111,7 @@
         <option value="$PROJECT_DIR$/learn/pom.xml" />
         <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/Test.java" />
         <option value="$PROJECT_DIR$/learn/bigdata/pom.xml" />
+        <option value="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/java/com/heibaiying/StreamingJob.java" />
       </list>
     </option>
   </component>
@@ -1214,6 +145,93 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="flink-basis-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="flink-basis-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="flink-basis-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="flink-basis-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="flink-basis-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="flink-basis-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="heibaiying" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="flink-basis-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1251,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StreamingJob">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.Application" />
       <module name="spring" />
@@ -1265,8 +283,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamingJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heibaiying.StreamingJob" />
+      <module name="flink-basis-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heibaiying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamingJob" />
         <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
@@ -1286,8 +318,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24293059" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24293059" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1299,13 +332,13 @@
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5168237" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5720054" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.14131898" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41991925" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1319,6 +352,39 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24293059" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Team" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="MyBatis Log" order="0" />
+      <window_info anchor="bottom" id="Messages" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.5168237" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.41991925" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32969153" />
+      <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bigdata/notes/Kafka消费者详解.md">
@@ -1438,13 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/java/docs/java/jvm/类加载器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1465,13 +524,6 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/java/JavaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1511,13 +563,6 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/src/main/java/com/heibaiying/AclOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="22" column="3" selection-start-line="22" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/bigdata/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1526,10 +571,67 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/src/main/java/com/heibaiying/AclOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/java/JavaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/flink/flink-streaming-java_2.11/1.9.0/flink-streaming-java_2.11-1.9.0.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/flink/flink-core/1.9.0/flink-core-1.9.0.jar!/org/apache/flink/core/fs/Path.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/resources/out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/src/main/java/com/heibaiying/StreamingJob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        <state relative-caret-position="-66">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
         </state>
       </provider>
     </entry>

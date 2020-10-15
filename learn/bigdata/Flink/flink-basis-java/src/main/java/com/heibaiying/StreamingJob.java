@@ -6,7 +6,7 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
 public class StreamingJob {
 
-    private static final String ROOT_PATH = "D:\\BigData-Notes\\code\\Flink\\flink-basis-java\\src\\main\\resources\\";
+    private static final String ROOT_PATH = "D:zxl\\learn\\bigdata\\Flink\\flink-basis-java\\src\\main\\resources\\";
 
     public static void main(String[] args) throws Exception {
 
