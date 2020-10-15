@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/learn/spring/pom.xml" />
-        <option value="$PROJECT_DIR$/learn/springmvc/pom.xml" />
         <option value="$PROJECT_DIR$/learn/java/pom.xml" />
         <option value="$PROJECT_DIR$/learn/bigdata/pom.xml" />
         <option value="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/pom.xml" />

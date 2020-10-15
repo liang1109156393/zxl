@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/flink-basis-java.iml" filepath="$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java/flink-basis-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn/java/java.iml" filepath="$PROJECT_DIR$/learn/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn/spring/spring.iml" filepath="$PROJECT_DIR$/learn/spring/spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/learn/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/learn/springmvc/springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zxl.iml" filepath="$PROJECT_DIR$/.idea/zxl.iml" />
     </modules>
   </component>

@@ -1,7 +1,7 @@
 package com.basic.proxy.JdkProxy.dynamicProxy;
 
-import com.zcckj.taiyi.account.JdkProxy.staticProxy.IUserDTO;
-import com.zcckj.taiyi.account.JdkProxy.staticProxy.UserDao;
+import com.basic.proxy.JdkProxy.staticProxy.IUserDTO;
+import com.basic.proxy.JdkProxy.staticProxy.UserDao;
 
 /**
  * @description:
