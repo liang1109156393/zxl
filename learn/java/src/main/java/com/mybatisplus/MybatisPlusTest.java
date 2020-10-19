@@ -6,6 +6,7 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.mybatisplus.dto.UserMapper;
 import com.mybatisplus.entity.User;
+import com.mybatisplus.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,6 +26,8 @@ public class MybatisPlusTest {
 
     @Autowired
     private UserMapper userMapper;
+    @Autowired
+    private UserService userService ;
 
     @Test
     public void testSelect() {
