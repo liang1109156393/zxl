@@ -1,4 +1,4 @@
-package com.mybatisplus;
+package com.mybatisplus.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
-import io.seata.rm.datasource.DataSourceProxy;
+import javax.sql.DataSource;
 
 /**
  * @description:
@@ -42,7 +42,7 @@ public class HikariDataSourceForProxyConfig {
 
     @Primary
     @Bean("dataSource")
-    public DataSourceProxy dataSource() {
+    public DataSource dataSource() {
         if(log.isDebugEnabled()){
             log.debug("Configuring Datasource");
             log.debug("database.url:" + dbUrl);
@@ -64,6 +64,6 @@ public class HikariDataSourceForProxyConfig {
         config.setPoolName(poolName);
         config.setConnectionTestQuery("select 1");
         HikariDataSource hikariDataSource = new HikariDataSource(config);
-        return new DataSourceProxy(hikariDataSource);
+        return new HikariDataSource(hikariDataSource);
     }
 }

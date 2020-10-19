@@ -1,6 +1,6 @@
-package com.mybatisplus;
+package com.mybatisplus.config;
 
-import org.springframework.cache.annotation.CacheConfig;
+import com.mybatisplus.config.HikariDataSourceForProxyConfig;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 
@@ -13,7 +13,6 @@ import org.springframework.context.annotation.Import;
 @Import({/*EntityInputIdMetaHandler.class, DubboConfig.class,
         RedisConfig.class,*/
         HikariDataSourceForProxyConfig.class,
-        CacheConfig.class,
        })
 public class ImportConfig {
 

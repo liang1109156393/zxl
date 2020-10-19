@@ -10,6 +10,7 @@
         <result column="age" property="age"/>
         <result column="name" property="name"/>
         <result column="email" property="email"/>
+        <result column="deleted" property="deleted"/>
     </resultMap>
 
     <!-- tableName -->
@@ -24,6 +25,7 @@
         modify_date,
         age,
         name,
-        email
+        email,
+        deleted
     </sql>
 </mapper>
