@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/learn/java/pom.xml" />
         <option value="$PROJECT_DIR$/learn/bigdata/pom.xml" />
         <option value="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/pom.xml" />
+        <option value="$PROJECT_DIR$/learn/springboot/pom.xml" />
       </list>
     </option>
   </component>
