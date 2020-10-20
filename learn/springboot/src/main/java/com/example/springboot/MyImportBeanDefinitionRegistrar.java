@@ -8,6 +8,7 @@ import org.springframework.context.annotation.ImportBeanDefinitionRegistrar;
 import org.springframework.core.type.AnnotationMetadata;
 import org.springframework.core.type.filter.AssignableTypeFilter;
 import org.springframework.core.type.filter.TypeFilter;
+import org.springframework.stereotype.Component;
 
 import java.util.Map;
 
@@ -44,8 +45,9 @@ public class MyImportBeanDefinitionRegistrar implements ImportBeanDefinitionRegi
     }
 
 }
+@Component
 class HelloService{
-    public HelloService() {
+    public void getsService() {
         System.out.println("ImportBeanDefinitionRegistrar 实现bean");
     }
 }
