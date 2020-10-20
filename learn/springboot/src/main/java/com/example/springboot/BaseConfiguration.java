@@ -3,6 +3,7 @@ package com.example.springboot;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.ImportBeanDefinitionRegistrar;
+import org.springframework.stereotype.Service;
 
 /**
  * @description:
