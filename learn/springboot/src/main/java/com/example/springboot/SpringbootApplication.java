@@ -9,6 +9,16 @@ import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
 public class SpringbootApplication implements CommandLineRunner {
+    /**
+     * 自动装配实现方式:
+     * 1：spring.factories中配置
+     * 2：@Import注解导入
+     * 若有实现ImportSelector 则执行selectImports方法
+     * 实现ImportBeanDefinitionRegistrar接口
+     * */
+
+
+
 
     public static void main(String[] args) {
         ConfigurableApplicationContext run = new SpringApplicationBuilder(SpringbootApplication.class)

@@ -19,7 +19,18 @@ import org.springframework.context.ConfigurableApplicationContext;
 public class Application {
 	@Value("${name}")
 	private String name ;
-
+	/**
+	 * Spring中四种实例化bean的方式
+	 * 1、使用构造器实例化Bean
+	 * 2、使用静态工厂方式实例化Bean
+	 * 3、使用实例工厂方法实例化Bean
+	 * 4、用 setter 方式
+	 *
+	 * Spring 注入方式
+	 * 1、构造函数
+	 * 2、set方法
+	 *
+	 * */
 	public static void main(String[] args) {
 		life();
 		enable();
