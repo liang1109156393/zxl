@@ -21,17 +21,23 @@ public class ProxyFactory {
         return Proxy.newProxyInstance(
                 target.getClass().getClassLoader(),
                 target.getClass().getInterfaces(),
-                new InvocationHandler() {
-                    @Override
-                    public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-                        System.out.println("开始事务2");
-                        //执行目标对象方法
-                        Object returnValue = method.invoke(target, args);
-                        System.out.println("提交事务2");
-                        return returnValue;
-                    }
-                }
+                new MyInvocation()
         );
     }
+
+    class MyInvocation implements InvocationHandler{
+
+        @Override
+        public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+            System.out.println("开始事务2");
+            //执行目标对象方法
+            Object returnValue = method.invoke(target, args);
+            System.out.println("提交事务2");
+            return returnValue;
+        }
+
+
+    }
+
 
 }
