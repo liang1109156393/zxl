@@ -1,11 +1,10 @@
 package com.basic.proxy.JdkProxy.dynamicProxy;
 
-import com.basic.proxy.JdkProxy.staticProxy.AuserDao;
+import com.basic.proxy.JdkProxy.staticProxy.AUserDao;
 import com.basic.proxy.JdkProxy.staticProxy.IUserDTO;
 import com.basic.proxy.JdkProxy.staticProxy.UserDao;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
-import org.mybatis.spring.SqlSessionTemplate;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -47,7 +46,9 @@ public class ProxyFactory {
 
         @Override
         public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-            AuserDao auserDao = new AuserDao();
+
+            //代理中不关心接口的实现，只在调用的时候,跟目标对象有关
+            AUserDao aUserDao = new AUserDao();
             UserDao userDao = new UserDao();
             System.out.println("开始事务2");
             //执行目标对象方法
