@@ -1,8 +1,17 @@
 package com.basic.proxy.JdkProxy.dynamicProxy;
 
+import com.basic.proxy.JdkProxy.staticProxy.AuserDao;
+import com.basic.proxy.JdkProxy.staticProxy.IUserDTO;
+import com.basic.proxy.JdkProxy.staticProxy.UserDao;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.mybatis.spring.SqlSessionTemplate;
+
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
+
+import static java.lang.reflect.Proxy.newProxyInstance;
 
 /**
  * @description:
@@ -11,6 +20,9 @@ import java.lang.reflect.Proxy;
  **/
 public class ProxyFactory {
     //维护一个目标对象
+
+
+
     private Object target;
     public ProxyFactory(Object target){
         this.target=target;
@@ -18,9 +30,15 @@ public class ProxyFactory {
 
     //给目标对象生成代理对象
     public Object getProxyInstance(){
+        newProxyInstance(
+                SqlSessionFactory.class.getClassLoader(),
+                new Class[] { SqlSession.class },
+                new MyInvocation());
+
+
         return Proxy.newProxyInstance(
                 target.getClass().getClassLoader(),
-                target.getClass().getInterfaces(),
+                new Class[] {IUserDTO.class},
                 new MyInvocation()
         );
     }
@@ -29,9 +47,11 @@ public class ProxyFactory {
 
         @Override
         public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+            AuserDao auserDao = new AuserDao();
+            UserDao userDao = new UserDao();
             System.out.println("开始事务2");
             //执行目标对象方法
-            Object returnValue = method.invoke(target, args);
+            Object returnValue = method.invoke(userDao, args);
             System.out.println("提交事务2");
             return returnValue;
         }

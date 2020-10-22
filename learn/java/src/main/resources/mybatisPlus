@@ -1,0 +1,6 @@
+mybatisPlus配置类MybatisPlusAutoConfiguration中创建DefaultSqlSessionFactory实例和SqlSessionTemplate的实例
+DefaultSqlSessionFactory创建过程:
+             MybatisSqlSessionFactoryBean factory = new MybatisSqlSessionFactoryBean();
+             factory.getObject();
+             afterPropertiesSet();
+             buildSqlSessionFactory();
