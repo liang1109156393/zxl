@@ -42,7 +42,7 @@ public class ProxyFactory {
         );
     }
 
-    class MyInvocation implements InvocationHandler{
+    static class MyInvocation implements InvocationHandler{
 
         @Override
         public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
@@ -55,6 +55,9 @@ public class ProxyFactory {
             Object returnValue = method.invoke(userDao, args);
             System.out.println("提交事务2");
             return returnValue;
+        }
+        public void say(){
+            System.out.println("ddddddddddddddddddddddddd");
         }
 
 
