@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ebece6-6dbd-489a-9074-5aa6d0ff4d61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboSpiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Bumblebee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveExt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboAdaptiveExt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/ThriftAdaptiveExt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/dynamicProxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/dynamicProxy/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboSpiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboSpiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/learn/spring/target/" />
     <ignored path="$PROJECT_DIR$/learn/springmvc/target/" />
@@ -39,32 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboSpiTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java">
+        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveExt2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="227">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,19 +45,104 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot">
+        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" column="22" selection-start-line="1" selection-end-line="2" />
+            <state>
+              <caret column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Robot.java">
+        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="228">
+              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/URL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="500" selection-start-line="500" selection-end-line="500" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/ExtensionLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="494" selection-start-line="494" selection-end-line="494" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/factory/AdaptiveExtensionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#1475#1493#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboAdaptiveExt2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboSpiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/ThriftAdaptiveExt2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding>
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,8 +153,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -110,6 +167,7 @@
       <find>maximumPoolSize</find>
       <find>baseMapper</find>
       <find>spring-boot</find>
+      <find>getAdaptiveExt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,15 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/ImportConfig.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/HikariDataSourceForProxyConfig.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/common/BaseEntity.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/config/MybatisPlusConfig.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/resources/mybatis/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/entity/User.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/BaseService.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/UserService.java" />
         <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/BaseServiceImpl.java" />
         <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusTest.java" />
         <option value="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/User.java" />
@@ -162,13 +211,22 @@
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/org.apache.spi.Robot" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.Robot" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Bumblebee.java" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Robot.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboSpiTest.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboSpiTest.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/WheelMaker.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/Wheel.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveWheelMaker.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/ThriftAdaptiveExt2.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboAdaptiveExt2.java" />
+        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveExt2.java" />
       </list>
     </option>
   </component>
@@ -317,20 +375,6 @@
               <item name="dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="spi" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zxl" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -369,6 +413,86 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.dubbo:dubbo:2.7.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-2.7.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -402,6 +526,7 @@
       <recent name="E:\zxl\learn\bigdata\src" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.dubbo.spi.dubbo" />
       <recent name="com.example.springboot" />
     </key>
   </component>
@@ -417,13 +542,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JavaSpiTest.sayHello">
-    <configuration name="DubboApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.DubboApplication" />
+  <component name="RunManager" selected="Application.DubboAdaptiveExtion">
+    <configuration name="DubboAdaptiveExtion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.DubboAdaptiveExtion" />
       <module name="dubbo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.example.dubbo.spi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,12 +560,12 @@
       <module name="dubbo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dubbo.spi.dubbo.*" />
+          <option name="PATTERN" value="com.example.dubbo.spi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.dubbo.spi.dubbo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.dubbo.DubboSpiTest" />
+      <option name="PACKAGE_NAME" value="com.example.dubbo.spi" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.DubboSpiTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -450,12 +575,12 @@
       <module name="dubbo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dubbo.spi.dubbo.*" />
+          <option name="PATTERN" value="com.example.dubbo.spi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.dubbo.spi.dubbo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.dubbo.DubboSpiTest" />
+      <option name="PACKAGE_NAME" value="com.example.dubbo.spi" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.DubboSpiTest" />
       <option name="METHOD_NAME" value="sayHello" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -495,11 +620,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JavaSpiTest.sayHello" />
+        <item itemvalue="Application.DubboAdaptiveExtion" />
         <item itemvalue="JUnit.DubboSpiTest.sayHello" />
+        <item itemvalue="JUnit.JavaSpiTest.sayHello" />
         <item itemvalue="JUnit.DubboSpiTest" />
         <item itemvalue="JUnit.JavaSpiTest" />
-        <item itemvalue="Application.DubboApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -517,21 +642,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JavaSpiTest_sayHello - 2020.10.26 at 09h 19m 29s.xml">
-      <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JavaSpiTest_sayHello - 2020.10.26 at 09h 20m 15s.xml">
-      <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JavaSpiTest_sayHello - 2020.10.26 at 09h 24m 30s.xml">
-      <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JavaSpiTest_sayHello - 2020.10.26 at 09h 26m 00s.xml">
-      <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 28m 27s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DubboSpiTest - 2020.10.26 at 09h 28m 59s.xml">
       <configuration name="DubboSpiTest" configurationId="JUnit" />
     </history-entry>
@@ -547,12 +657,27 @@
     <history-entry file="JavaSpiTest_sayHello - 2020.10.26 at 09h 32m 01s.xml">
       <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 42m 30s.xml">
+      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 42m 51s.xml">
+      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 03m 44s.xml">
+      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 06m 36s.xml">
+      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 07m 18s.xml">
+      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7396907" visible="true" weight="0.28213367" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7396907" visible="true" weight="0.2673522" />
       <window_info id="Structure" order="1" sideWeight="0.26030928" side_tool="true" weight="0.28213367" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -564,15 +689,16 @@
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.47779274" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.41991925" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.5343203" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3499327" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25975773" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.61103636" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -585,8 +711,8 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7396907" visible="true" weight="0.28213367" />
-      <window_info id="Structure" order="1" sideWeight="0.26030928" side_tool="true" visible="true" weight="0.28213367" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7396907" visible="true" weight="0.19344473" />
+      <window_info id="Structure" order="1" sideWeight="0.26030928" side_tool="true" weight="0.28213367" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -597,14 +723,14 @@
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.47779274" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.68909824" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.47779274" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.41991925" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25975773" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.61103636" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -651,150 +777,47 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboSpiTest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/ExtensionLoader.java</url>
+          <line>560</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zxl$DubboAdaptiveExtion.ic" NAME="DubboAdaptiveExtion Coverage Results" MODIFIED="1603680864911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.dubbo.spi.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>type == ExtensionFactory.class</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getAdaptiveExtensionClass().newInstance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/SpringbootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/Test.java" />
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyBeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyInstantiationAwareBeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyImportBeanDefinitionRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="85" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/BaseConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.9.RELEASE/spring-beans-5.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/MyFactoryBean.java" />
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyBeanFactoryPostProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="20" column="13" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/cglib/RoleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/staticProxy/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/staticProxy/AUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusTXT.java" />
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.4.RELEASE/spring-boot-2.3.4.RELEASE-sources.jar!/org/springframework/boot/WebApplicationType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1683">
@@ -927,24 +950,6 @@
     <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Bumblebee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/jdk/src.zip!/java/security/AccessController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -997,6 +1002,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="24" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/utils/Holder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1004,34 +1027,200 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Robot.java">
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Bumblebee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="231">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboSpiTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/factory/SpiExtensionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="43" />
+        <state relative-caret-position="230">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/META-INF/dubbo/internal/org.apache.dubbo.rpc.cluster.RouterFactory">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/META-INF/dubbo/internal/org.apache.dubbo.rpc.ProxyFactory">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/utils/ReflectUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="22" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="266">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java">
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/WheelMaker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="305">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/Wheel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveWheelMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/config/spring/extension/SpringExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/ExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/Adaptive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboSpiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/factory/AdaptiveExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#1475#1493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/ExtensionLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="494" selection-start-line="494" selection-end-line="494" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="500" selection-start-line="500" selection-end-line="500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/ThriftAdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboAdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

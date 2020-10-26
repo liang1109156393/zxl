@@ -6,8 +6,12 @@ package com.example.dubbo.spi.java;
  **/
 public class OptimusPrime implements Robot {
 
+    private String name ;
     @Override
     public void sayHello() {
         System.out.println("Hello, I am Optimus Prime.");
+    }
+    public void setName(String name ) {
+        this.name = name ;
     }
 }

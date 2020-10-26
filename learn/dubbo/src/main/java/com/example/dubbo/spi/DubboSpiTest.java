@@ -1,4 +1,4 @@
-package com.example.dubbo.spi.dubbo;
+package com.example.dubbo.spi;
 
 import com.example.dubbo.spi.java.Robot;
 import org.apache.dubbo.common.extension.ExtensionLoader;
