@@ -1,6 +1,4 @@
-package com.basic.proxy.JdkProxy.staticProxy;
-
-import org.springframework.core.annotation.Order;
+package com.basic.design.proxy.JdkProxy.staticProxy;
 
 /**
  * @description:

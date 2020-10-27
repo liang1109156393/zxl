@@ -1,8 +1,8 @@
-package com.basic.proxy.JdkProxy.dynamicProxy;
+package com.basic.design.proxy.JdkProxy.dynamicProxy;
 
-import com.basic.proxy.JdkProxy.staticProxy.AUserDao;
-import com.basic.proxy.JdkProxy.staticProxy.IUserDTO;
-import com.basic.proxy.JdkProxy.staticProxy.UserDao;
+import com.basic.design.proxy.JdkProxy.staticProxy.AUserDao;
+import com.basic.design.proxy.JdkProxy.staticProxy.IUserDTO;
+import com.basic.design.proxy.JdkProxy.staticProxy.UserDao;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 

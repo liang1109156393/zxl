@@ -1,4 +1,4 @@
-package com.basic.proxy.JdkProxy.staticProxy;
+package com.basic.design.proxy.JdkProxy.staticProxy;
 
 /**
  * @description:

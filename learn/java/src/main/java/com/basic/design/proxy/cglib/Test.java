@@ -1,4 +1,4 @@
-package com.basic.proxy.cglib;
+package com.basic.design.proxy.cglib;
 
 /**
  * @description:
