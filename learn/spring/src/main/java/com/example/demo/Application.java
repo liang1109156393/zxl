@@ -5,6 +5,7 @@ import com.example.demo.enable.HelloWorld;
 import com.example.demo.enable.HelloWorld2;
 import com.example.demo.life.Person;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -32,6 +33,8 @@ public class Application {
 	 *
 	 * */
 	public static void main(String[] args) {
+
+		BeanUtils.instantiateClass(Application.class);
 		life();
 		enable();
 	}

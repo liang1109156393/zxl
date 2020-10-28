@@ -17,6 +17,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bigdata" target="1.8" />
+      <module name="cloud" target="1.8" />
       <module name="curator" target="8" />
       <module name="dubbo" target="1.8" />
       <module name="flink-basis-java" target="1.8" />
@@ -30,6 +31,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="bigdata" options="-parameters" />
+      <module name="cloud" options="-parameters" />
       <module name="dubbo" options="-parameters" />
       <module name="java" options="-parameters" />
       <module name="learn" options="-parameters" />
