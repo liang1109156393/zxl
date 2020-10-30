@@ -22,7 +22,7 @@ import java.util.List;
  **/
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = JavaApplication.class)
-public class MybatisPlusTest {
+public class MybatisPlusNioServer {
 
     @Autowired
     private UserMapper userMapper;

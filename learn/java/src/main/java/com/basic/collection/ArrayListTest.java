@@ -1,5 +1,6 @@
 package com.basic.collection;
 
+import java.util.ArrayList;
 import java.util.concurrent.CountDownLatch;
 
 /**
@@ -23,6 +24,7 @@ public class ArrayListTest {
      * */
 
     public static void main(String [] args){
+        new ArrayList<String>();
         SubThread1 subThread1=new SubThread1();
         subThread1.start();
         for (int i=0;i<=4;i++){
