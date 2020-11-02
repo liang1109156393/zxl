@@ -1,7 +1,7 @@
 package com.basic.collection;
 
-import java.util.ArrayList;
-import java.util.concurrent.CountDownLatch;
+import java.util.*;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * @description:
@@ -14,42 +14,24 @@ public class ArrayListTest {
      * String[] string = {"1"};
      * String[] string = new String[]{"1"};
      *
-     * ArrayList 有序的,可重复的,线程不安全。
-     * 底层数组实现。扩容为原来的1.5倍 会出现fail-fast机制
-     *
-     *
-     *
-     *
-     *
-     * */
-
-    public static void main(String [] args){
-        new ArrayList<String>();
-        SubThread1 subThread1=new SubThread1();
-        subThread1.start();
-        for (int i=0;i<=4;i++){
-            System.out.println(Thread.currentThread().getName()+":"+i);
-            if(i==2){
-                try {
-                    subThread1.join();
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-            }
-        }
+     * ArrayList 默认初始化空数组，添加元素时,初始化数组容量默认10。 有序的,可重复的,线程不安全。
+     * 底层数组实现。扩容为原来的1.5倍
+     * 会出现fail-fast异常 ArrayList中维护个ArrayList数据改变次数字段modCount 当modCount和sub
+     *  避免fail-fast 使用CopyOnWriterArrayList 并发编程时候 ，但线程时候尽量使用itrator的reomve
+     * RandomAccess 接口标记 来区别是使用for循环还是使用迭代器遍历
+    *
+    * Vector 默认初始化数组10 有序的线程安全的 扩容原来一倍 底层数组实现
+    *
+    *LinkedList 底层双向链表实现，线程不安全 删除快，查询慢
+    *
+    * */
+    public static void main(String[] args) {
+        ArrayList<String> arrayList = new ArrayList<>();
+        Vector votor = new Vector<String>(0);
+        LinkedList linkedArrayList = new LinkedList();
+        votor.add("1");
     }
-}
 
-class SubThread1 extends Thread{
-    @Override
-    public void run(){
-        for (int i=6;i<=10;i++){
-            try {
-                Thread.currentThread().sleep(100);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-            System.out.println(Thread.currentThread().getName()+":"+i);
-        }
-    }
+
+
 }
