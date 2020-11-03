@@ -26,7 +26,7 @@ public class ArrayListTest {
     *
     * */
     public static void main(String[] args) {
-        ArrayList<String> arrayList = new ArrayList<>();
+        ArrayList<String> arrayList = new ArrayList<>(1);
         Vector votor = new Vector<String>(0);
         LinkedList linkedArrayList = new LinkedList();
         votor.add("1");
