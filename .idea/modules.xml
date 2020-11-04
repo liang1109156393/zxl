@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/learn/java/java.iml" filepath="$PROJECT_DIR$/learn/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn/spring/spring.iml" filepath="$PROJECT_DIR$/learn/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn/springboot/springboot.iml" filepath="$PROJECT_DIR$/learn/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn/springsecurity/springsecurity.iml" filepath="$PROJECT_DIR$/learn/springsecurity/springsecurity.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zxl.iml" filepath="$PROJECT_DIR$/.idea/zxl.iml" />
     </modules>
   </component>

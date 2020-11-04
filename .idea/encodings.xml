@@ -4,10 +4,10 @@
     <file url="file://$PROJECT_DIR$/learn" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn/bigdata" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn/bigdata/Flink/flink-basis-java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/learn/cloud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn/dubbo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn/spring" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn/springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn/springsecurity" charset="UTF-8" />
   </component>
 </project>
