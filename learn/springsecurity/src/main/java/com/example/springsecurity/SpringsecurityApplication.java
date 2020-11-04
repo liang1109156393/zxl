@@ -11,7 +11,8 @@ public class SpringsecurityApplication {
 	*  在ProviderManager中执行AuthenticationProvider的authenticate方法实现用户认证
 	*  userDetailsService.loadUserByUsername返回返回一个Authentication
 	*  认证成功或失败执行AbstractAuthenticationProcessingFilter的子类的successfulAuthentication或者unsuccessfulAuthentication
-	*
+	*  AbstractSecurityInterceptor权限认证 beforeInvocation()方法中 调用this.obtainSecurityMetadataSource()
+		.getAttributes(object)查询所有权限，执行accessDecisionManager.decide的方法验权是否有。
 	*
 	* */
 	public static void main(String[] args) {
