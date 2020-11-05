@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ebece6-6dbd-489a-9074-5aa6d0ff4d61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/SysLog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/JavaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/JavaApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/learn/spring/target/" />
     <ignored path="$PROJECT_DIR$/learn/springmvc/target/" />
@@ -28,40 +35,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SecurityConfig.java">
+        <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="201">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java">
+        <entry file="file://$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/JavaApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9471">
-              <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/security/LoginFilterProcessingFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="58">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,61 +86,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.class">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.3.4.RELEASE/spring-boot-test-2.3.4.RELEASE.jar!/org/springframework/boot/test/context/SpringBootTest.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="15" column="63" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="63" />
+            <state relative-caret-position="177">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/runner/RunWith.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="34" column="78" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
+            <state relative-caret-position="234">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk/src.zip!/java/util/Vector.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/After.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24420">
-              <caret line="785" selection-start-line="785" selection-end-line="785" />
-              <folding>
-                <element signature="e#5447#5448#0" expanded="true" />
-                <element signature="e#5487#5488#0" expanded="true" />
-                <element signature="e#5671#5672#0" expanded="true" />
-                <element signature="e#5695#5696#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.5.RELEASE/spring-boot-2.3.5.RELEASE.jar!/org/springframework/boot/WebApplicationType.class">
+        <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/mvc/SpringMvc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="-185">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk/src.zip!/java/util/ServiceLoader.java">
+        <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/SpringbootApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16269">
-              <caret line="536" selection-start-line="536" selection-end-line="536" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.10.RELEASE/spring-web-5.2.10.RELEASE.jar!/org/springframework/web/filter/GenericFilterBean.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            <state relative-caret-position="324">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -134,16 +135,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>starter</find>
       <find>mybatis</find>
       <find>maximumPoolSize</find>
       <find>baseMapper</find>
@@ -173,6 +173,7 @@
       <find>elementCount</find>
       <find>DEFAULT_CAPACITY</find>
       <find>size</find>
+      <find>localSqlSession</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -181,23 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusTXT.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/resources/mybatisPlus" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/proxy/JdkProxy/dynamicProxy/Test.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/DubboApplication.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/pom.xml" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/DubboApplication.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpi.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/org.apache.spi.Robot" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.Robot" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Bumblebee.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Robot.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboSpiTest.java" />
-        <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/WheelMaker.java" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/Wheel.java" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveWheelMaker.java" />
@@ -232,6 +216,23 @@
         <option value="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/security/LoginFilterProcessingFilter.java" />
         <option value="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/resources/mybatisPlus" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/ProxyFactory.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/MyParent.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/RoleDao.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/Test.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/MyInterface.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/staticProxy/UserDao.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/staticProxy/Test.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/dynamicProxy/Test.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/SysLog.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/AopConfig.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/JavaApplicationTests.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopMethod.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopConfig.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopAspect.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/JavaApplicationTests.java" />
       </list>
     </option>
   </component>
@@ -272,7 +273,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,20 +289,27 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -310,7 +317,7 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -319,9 +326,86 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -329,38 +413,79 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zxl" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,16 +505,20 @@
       <recent name="com" />
       <recent name="com.basic" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.dubbo.spi.dubbo" />
-      <recent name="com.example.springboot" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\zxl\learn\dubbo\src\main\resources\META-INF\dubbo" />
       <recent name="E:\zxl\learn\java\src\main\resources" />
       <recent name="E:\zxl\learn\java\src\main\resources\mybatis.mapper" />
       <recent name="E:\zxl\learn\bigdata" />
       <recent name="E:\zxl\learn\bigdata\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.basic.design.proxy.aop" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.basic.java" />
+      <recent name="com.example.dubbo.spi.dubbo" />
+      <recent name="com.example.springboot" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -404,13 +533,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpringsecurityApplication">
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.collection.ArrayListTest" />
-      <module name="java" />
+  <component name="RunManager" selected="Application.JavaApplication">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.Application" />
+      <module name="spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.collection.*" />
+          <option name="PATTERN" value="com.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,12 +547,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.io.Book" />
+    <configuration name="JavaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaApplication" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.io.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,12 +560,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.io.NioClient" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.design.proxy.cglib.Test" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.io.*" />
+          <option name="PATTERN" value="com.basic.design.proxy.cglib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,39 +573,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NioServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.io.NioServer" />
+    <configuration name="JavaApplicationTests.testAop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.io.*" />
+          <option name="PATTERN" value="com.basic.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.basic.java" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.java.JavaApplicationTests" />
+      <option name="METHOD_NAME" value="testAop" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringsecurityApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.springsecurity.SpringsecurityApplication" />
-      <module name="springsecurity" />
+    <configuration name="MybatisPlusNioServer.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.springsecurity.*" />
+          <option name="PATTERN" value="com.mybatisplus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.mybatisplus.MybatisPlusNioServer" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpringsecurityApplication" />
-        <item itemvalue="Application.ArrayListTest" />
-        <item itemvalue="Application.NioClient" />
-        <item itemvalue="Application.NioServer" />
-        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.JavaApplication" />
+        <item itemvalue="JUnit.JavaApplicationTests.testAop" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.MybatisPlusNioServer.testSelect" />
       </list>
     </recent_temporary>
   </component>
@@ -497,42 +632,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DubboSpiTest - 2020.10.26 at 09h 28m 59s.xml">
-      <configuration name="DubboSpiTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 29m 09s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 29m 32s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 29m 52s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JavaSpiTest_sayHello - 2020.10.26 at 09h 32m 01s.xml">
-      <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 42m 30s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 09h 42m 51s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 03m 44s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 06m 36s.xml">
       <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 07m 18s.xml">
       <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 13h 44m 57s.xml">
+      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 13h 49m 38s.xml">
+      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 14h 06m 05s.xml">
+      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 14h 07m 52s.xml">
+      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 38m 18s.xml">
+      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 40m 05s.xml">
+      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 41m 23s.xml">
+      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 41m 55s.xml">
+      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.23393317" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.31426734" />
       <window_info id="Structure" order="1" sideWeight="0.30349344" side_tool="true" weight="0.17480719" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -540,18 +675,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Team" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.5397039" />
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.25841185" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.82234186" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.35935396" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.24899058" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.47106326" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.44683716" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -566,8 +701,8 @@
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32969153" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.1745283" visible="true" weight="0.17480719" />
-      <window_info id="Structure" order="1" sideWeight="0.8235294" side_tool="true" weight="0.090616964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.23714653" />
+      <window_info id="Structure" order="1" sideWeight="0.30349344" side_tool="true" weight="0.17480719" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -578,14 +713,14 @@
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.35397038" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.3499327" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2974428" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.6460296" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.18304172" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.22849463" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -608,12 +743,6 @@
           <line>42</line>
           <properties />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.class</url>
-          <line>112</line>
-          <properties />
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java</url>
@@ -664,16 +793,58 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/jdk/src.zip!/java/util/Vector.java</url>
-          <line>780</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/security/LoginFilterProcessingFilter.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusNioServer.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java</url>
+          <line>251</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java</url>
+          <line>159</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5.jar!/org/apache/ibatis/session/SqlSessionManager.class</url>
+          <line>215</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/Test.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -733,471 +904,406 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/jdk/src.zip!/java/lang/ref/WeakReference.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        <state relative-caret-position="150">
+          <caret line="246" selection-start-line="246" selection-end-line="246" />
           <folding>
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#9449#9450#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/ThreadLocal.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/override/MybatisMapperMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7029">
-          <caret line="243" column="20" selection-start-line="243" selection-start-column="20" selection-end-line="243" selection-end-column="20" />
-          <folding>
-            <element signature="e#7765#7766#0" expanded="true" />
-            <element signature="e#7802#7803#0" expanded="true" />
-            <element signature="e#8068#8069#0" expanded="true" />
-            <element signature="e#8137#8138#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="109">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/Thread.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="435" selection-start-line="435" selection-end-line="435" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="447" selection-start-line="447" selection-end-line="447" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/SqlSessionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="149" column="5" lean-forward="true" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
-          <folding>
-            <element signature="e#1762#1763#0" expanded="true" />
-            <element signature="e#1798#1799#0" expanded="true" />
-            <element signature="e#4021#4022#0" expanded="true" />
-            <element signature="e#4085#4086#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        <state relative-caret-position="142">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/Integer.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="1322" column="36" selection-start-line="1322" selection-start-column="36" selection-end-line="1322" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="458" column="26" selection-start-line="458" selection-start-column="26" selection-end-line="458" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="216" column="7" lean-forward="true" selection-start-line="216" selection-start-column="7" selection-end-line="216" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/io/Book.java" />
-    <entry file="jar://D:/jdk/src.zip!/java/nio/channels/SelectableChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8283">
-          <caret line="276" column="30" selection-start-line="276" selection-start-column="30" selection-end-line="276" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/nio/channels/SocketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/io/OutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/io/OutputStreamWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2442">
-          <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/io/Closeable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/io/NioServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/io/NioClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="73" column="25" selection-start-line="67" selection-start-column="62" selection-end-line="73" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="1307" column="13" lean-forward="true" selection-start-line="1307" selection-start-column="13" selection-end-line="1307" selection-end-column="13" />
-          <folding>
-            <element signature="e#3497#3498#0" expanded="true" />
-            <element signature="e#3522#3523#0" expanded="true" />
-            <element signature="e#3605#3606#0" expanded="true" />
-            <element signature="e#3644#3645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-          <folding>
-            <element signature="e#5343#5344#0" expanded="true" />
-            <element signature="e#5400#5401#0" expanded="true" />
-            <element signature="e#9661#9662#0" expanded="true" />
-            <element signature="e#9693#9694#0" expanded="true" />
-            <element signature="e#9883#9884#0" expanded="true" />
-            <element signature="e#9921#9922#0" expanded="true" />
-            <element signature="e#11802#11803#0" expanded="true" />
-            <element signature="e#11849#11850#0" expanded="true" />
-            <element signature="e#24472#24473#0" expanded="true" />
-            <element signature="e#24509#24510#0" expanded="true" />
-            <element signature="e#24792#24793#0" expanded="true" />
-            <element signature="e#24849#24850#0" expanded="true" />
-            <element signature="e#25382#25383#0" expanded="true" />
-            <element signature="e#25443#25444#0" expanded="true" />
-            <element signature="e#26903#26904#0" expanded="true" />
-            <element signature="e#26977#26978#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/RandomAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="66" column="29" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14520">
-          <caret line="473" column="11" selection-start-line="473" selection-start-column="11" selection-end-line="473" selection-end-column="11" />
-          <folding>
-            <element signature="e#19072#19073#0" expanded="true" />
-            <element signature="e#19130#19131#0" expanded="true" />
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-            <element signature="e#23597#23598#0" expanded="true" />
-            <element signature="e#23651#23652#0" expanded="true" />
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/thread/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/config/MybatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9108">
-          <caret line="315" column="20" selection-start-line="315" selection-start-column="20" selection-end-line="315" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/com/sun/corba/se/impl/orbutil/DenseIntMapImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/collection/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1947">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11154">
-          <caret line="366" column="11" selection-start-line="366" selection-start-column="11" selection-end-line="366" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3960">
-          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-          <folding>
-            <element signature="e#5767#5768#0" expanded="true" />
-            <element signature="e#5800#5801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/LinkedHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3102">
-          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
-          <folding>
-            <element signature="e#6162#6163#0" expanded="true" />
-            <element signature="e#6199#6200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
-          <folding>
-            <element signature="e#3709#3710#0" expanded="true" />
-            <element signature="e#3746#3747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-            <element signature="e#30684#30685#0" expanded="true" />
-            <element signature="e#30716#30717#0" expanded="true" />
-            <element signature="e#30723#32999#0" />
-            <element signature="e#31097#31550#0" />
-            <element signature="e#31560#32014#0" />
-            <element signature="e#31718#31890#0" />
-            <element signature="e#31928#32004#0" />
-            <element signature="e#32024#32829#0" />
-            <element signature="e#32839#32993#0" />
-            <element signature="e#33144#33223#0" />
-            <element signature="e#33465#33918#0" />
-            <element signature="e#33928#34273#0" />
-            <element signature="e#34283#34681#0" />
-            <element signature="e#34693#36466#0" />
-            <element signature="e#36472#36939#0" />
-            <element signature="e#36945#45276#0" />
-            <element signature="e#45282#45804#0" />
-            <element signature="e#45810#46335#0" />
-            <element signature="e#46462#51697#0" />
-            <element signature="e#51703#53300#0" />
-            <element signature="e#53820#54148#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-          <folding>
-            <element signature="e#4697#4698#0" expanded="true" />
-            <element signature="e#4742#4743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/collection/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="33">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusNioServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+        <state relative-caret-position="49">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/resources/application.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#2322#2323#0" expanded="true" />
+            <element signature="e#2368#2369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="95" column="57" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/MybatisConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="323" column="51" selection-start-line="323" selection-start-column="31" selection-end-line="323" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/executor/MybatisReuseExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/executor/AbstractBaseExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3405">
+          <caret line="67" column="40" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/MyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/staticProxy/IUserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/staticProxy/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/MyParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/staticProxy/UserDaoProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/staticProxy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/dynamicProxy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/dynamicProxy/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE.jar!/org/springframework/cglib/proxy/Enhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="249" column="36" selection-start-line="249" selection-start-column="30" selection-end-line="249" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE.jar!/org/springframework/cglib/core/AbstractClassGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="162" column="33" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE-sources.jar!/org/springframework/cglib/proxy/Enhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="561" column="19" selection-start-line="561" selection-start-column="19" selection-end-line="561" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE-sources.jar!/org/springframework/cglib/core/ReflectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1049">
+          <caret line="497" column="24" selection-start-line="497" selection-start-column="24" selection-end-line="497" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE-sources.jar!/org/springframework/cglib/core/AbstractClassGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="338" column="20" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
+          <folding>
+            <element signature="e#5211#5212#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.9.RELEASE/spring-beans-5.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Autowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="100" selection-start-line="100" selection-end-line="102" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/annotation/ElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.9.RELEASE/spring-context-5.2.9.RELEASE-sources.jar!/org/springframework/stereotype/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="41" selection-start-line="41" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyInstantiationAwareBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/mvc/SpringMvc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/SpringbootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/After.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/JavaApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/AopConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/runner/RunWith.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.3.4.RELEASE/spring-boot-test-2.3.4.RELEASE.jar!/org/springframework/boot/test/context/SpringBootTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springsecurity/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE.jar!/org/springframework/security/authentication/AuthenticationManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE.jar!/org/springframework/security/config/annotation/authentication/configuration/AuthenticationConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="257" column="30" selection-start-line="257" selection-start-column="30" selection-end-line="257" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.class">
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9471">
-          <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
+        <state relative-caret-position="122">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/security/LoginFilterProcessingFilter.java">
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="201">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/JavaApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="15" column="63" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="34" column="78" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24420">
-          <caret line="785" selection-start-line="785" selection-end-line="785" />
-          <folding>
-            <element signature="e#5447#5448#0" expanded="true" />
-            <element signature="e#5487#5488#0" expanded="true" />
-            <element signature="e#5671#5672#0" expanded="true" />
-            <element signature="e#5695#5696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.5.RELEASE/spring-boot-2.3.5.RELEASE.jar!/org/springframework/boot/WebApplicationType.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/ServiceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16269">
-          <caret line="536" selection-start-line="536" selection-end-line="536" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.10.RELEASE/spring-web-5.2.10.RELEASE.jar!/org/springframework/web/filter/GenericFilterBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
         </state>
       </provider>
     </entry>
