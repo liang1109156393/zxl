@@ -6,7 +6,7 @@ package com.basic.design.proxy.cglib;
  * @create: 2020-09-24 14:52
  **/
 public class RoleDao {
-    public final void save() {
+    public  void save() {
         System.out.println("----已经保存数据!----");
     }
 }
