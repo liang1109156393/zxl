@@ -1,18 +1,15 @@
-package com.mybatisplus;
+package com.frame;
 
-import com.JavaApplication;
-import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.mybatisplus.dto.UserMapper;
-import com.mybatisplus.entity.User;
-import com.mybatisplus.service.UserService;
+import com.frame.mybatisplus.dto.UserMapper;
+import com.frame.mybatisplus.entity.User;
+import com.frame.mybatisplus.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
-
 import java.util.List;
 
 /**
@@ -21,13 +18,15 @@ import java.util.List;
  * @create: 2020-10-16 14:24
  **/
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = JavaApplication.class)
+
+@SpringBootTest(classes = FrameApplication.class)
+
 public class MybatisPlusNioServer {
 
     @Autowired
     private UserMapper userMapper;
     @Autowired
-    private UserService userService ;
+    private UserService userService;
 
     @Test
     public void testSelect() {
@@ -35,8 +34,9 @@ public class MybatisPlusNioServer {
         List<User> userList = userMapper.selectList(null);
         userList.forEach(System.out::println);
     }
+
     @Test
-    public void testPage(){
+    public void testPage() {
         Page<User> userPage = new Page<>();
         QueryWrapper<User> userQueryWrapper = new QueryWrapper<>();
         Page<User> page = userMapper.selectPage(userPage, userQueryWrapper);
@@ -44,7 +44,7 @@ public class MybatisPlusNioServer {
     }
 
     @Test
-    public void update(){
+    public void update() {
 
     }
 }

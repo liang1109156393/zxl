@@ -2,17 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ebece6-6dbd-489a-9074-5aa6d0ff4d61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/AdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/AdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/DubboAdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/DubboAdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/ThriftAdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/ThriftAdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanFactoryPostProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanFactoryPostProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyInstantiationAwareBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyInstantiationAwareBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/mvc/SpringMvc.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/mvc/SpringMvc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/mybatis/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/mybatisPlus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/FrameApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/FrameApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusNioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/MybatisPlusNioServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/common/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/common/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/common/BaseInputEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/common/BaseInputEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/config/HikariDataSourceForProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/HikariDataSourceForProxyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/config/ImportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/ImportConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/MybatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/dto/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/dto/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/BaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/BaseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/UserServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/learn/spring/target/" />
     <ignored path="$PROJECT_DIR$/learn/springmvc/target/" />
@@ -38,100 +47,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/AdaptiveExt2.java">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/MybatisPlusConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="99">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/annotation/MapperScan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="44">
+              <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/annotation/MapperScans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/annotation/MapperScannerRegistrar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3435">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="252" selection-start-line="252" selection-end-line="252" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.10.RELEASE/spring-aop-5.2.10.RELEASE.jar!/org/springframework/aop/framework/ProxyCreatorSupport.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.10.RELEASE/spring-aop-5.2.10.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="453" column="35" lean-forward="true" selection-start-line="453" selection-start-column="35" selection-end-line="453" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#22256#22257#0" expanded="true" />
+                <element signature="e#22302#22303#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/JavaSpiTest.java">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/MybatisPlusNioServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="199">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanFactoryPostProcess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanPostProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyInstantiationAwareBeanPostProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/mvc/SpringMvc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/FrameApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="132">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.5.RELEASE/spring-boot-autoconfigure-2.3.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
             </state>
           </provider>
         </entry>
@@ -150,9 +161,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>remove</find>
-      <find>hasNext</find>
-      <find>checkForComodification</find>
       <find>iter</find>
       <find>readObject</find>
       <find>set</find>
@@ -180,6 +188,9 @@
       <find>selectImports</find>
       <find>adaptive.ext2</find>
       <find>com.frame.dubbo.spi.dubbo</find>
+      <find>mysql</find>
+      <find>mybatis-plus-boot-starter</find>
+      <find>com.frame.mybatisplus.dto</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -188,19 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/SysLog.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/AopConfig.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/JavaApplicationTests.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopMethod.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopConfig.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/test/java/com/basic/java/JavaApplicationTests.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopAspect.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/Test.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/RoleDao.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/dynamicProxy/Test.java" />
-        <option value="$PROJECT_DIR$/learn/java/pom.xml" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/JdkProxy/CustomAgent.java" />
         <option value="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/enable/MyConfiguration.java" />
         <option value="$PROJECT_DIR$/learn/spring/src/main/resources/META-INF/spring.factories" />
         <option value="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/enable/HelloWorldImportSelector.java" />
@@ -213,7 +211,6 @@
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboAdaptiveExt2.java" />
         <option value="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot" />
-        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/spring/enable/HelloWorldImportSelector.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/springboot/MyAutoConfiguration.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/springsecurity/SpringsecurityApplication.java" />
@@ -239,6 +236,20 @@
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/User.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/mvc/SpringMvc.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java" />
+        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/UserService.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/dto/UserMapper.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/entity/User.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/BaseService.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/BaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/MybatisPlusNioServer.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/MybatisPlusNioServer.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/mybatis/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/learn/frame/pom.xml" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/FrameApplication.java" />
       </list>
     </option>
   </component>
@@ -343,7 +354,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
@@ -355,8 +366,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="spi" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
@@ -368,9 +379,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="spi" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
@@ -382,9 +392,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="spi" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
@@ -396,45 +405,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zxl" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="life" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zxl" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zxl" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
@@ -449,33 +421,83 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -486,7 +508,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn/frame/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -500,6 +522,7 @@
       <recent name="com.example.springboot" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.frame" />
       <recent name="com" />
       <recent name="com.example" />
       <recent name="com.example.springboot" />
@@ -512,11 +535,11 @@
       <recent name="com.basic.design.proxy.aop" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\zxl\learn\frame\src\main\resources" />
+      <recent name="E:\zxl\learn\frame\src\main\java\com\frame" />
       <recent name="E:\zxl\learn\frame\src\main\java\com\example\frame" />
       <recent name="E:\zxl\learn\frame\src\main\resources\META-INF" />
       <recent name="E:\zxl\learn\frame\src\main\java\com\example\frame\spring" />
-      <recent name="E:\zxl\learn\frame\src\main\resources" />
-      <recent name="E:\zxl\learn\dubbo\src\main\resources\META-INF\dubbo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -531,7 +554,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DubboSpiTest">
+  <component name="RunManager" selected="Application.FrameApplication">
     <configuration name="DubboAdaptiveExtion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.frame.dubbo.spi.DubboAdaptiveExtion" />
       <module name="frame" />
@@ -545,12 +568,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DubboAdaptiveExtion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.DubboAdaptiveExtion" />
-      <module name="dubbo" />
+    <configuration name="FrameApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.frame.FrameApplication" />
+      <module name="frame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dubbo.spi.*" />
+          <option name="PATTERN" value="com.frame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -589,17 +612,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaSpiTest.sayHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MybatisPlusNioServer.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="frame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dubbo.spi.*" />
+          <option name="PATTERN" value="com.frame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.frame.dubbo.spi" />
-      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.JavaSpiTest" />
-      <option name="METHOD_NAME" value="sayHello" />
+      <option name="PACKAGE_NAME" value="com.frame" />
+      <option name="MAIN_CLASS_NAME" value="com.frame.MybatisPlusNioServer" />
+      <option name="METHOD_NAME" value="testPage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -607,11 +630,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrameApplication" />
+        <item itemvalue="JUnit.MybatisPlusNioServer.testPage" />
         <item itemvalue="JUnit.DubboSpiTest" />
         <item itemvalue="Application.DubboAdaptiveExtion (1)" />
         <item itemvalue="JUnit.DubboSpiTest.sayHello" />
-        <item itemvalue="JUnit.JavaSpiTest.sayHello" />
-        <item itemvalue="Application.DubboAdaptiveExtion" />
       </list>
     </recent_temporary>
   </component>
@@ -632,42 +655,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 13h 49m 38s.xml">
-      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
+    <history-entry file="DubboSpiTest - 2020.11.09 at 09h 24m 40s.xml">
+      <configuration name="DubboSpiTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 14h 06m 05s.xml">
-      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 04m 33s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 14h 07m 52s.xml">
-      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 05m 41s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 38m 18s.xml">
-      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 06m 51s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 40m 05s.xml">
-      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 07m 42s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 41m 23s.xml">
-      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 09m 42s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 41m 55s.xml">
-      <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 10m 14s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JavaSpiTest_sayHello - 2020.11.09 at 09h 16m 23s.xml">
-      <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 12m 49s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.11.09 at 09h 16m 35s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 10h 13m 28s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.11.09 at 09h 18m 11s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 11h 22m 11s.xml">
+      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.32583547" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.32583547" />
       <window_info id="Structure" order="1" sideWeight="0.30349344" side_tool="true" weight="0.24550128" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -679,7 +702,7 @@
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.36339167" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.45760432" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4993573" weight="0.39434725" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -701,7 +724,7 @@
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32969153" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.3251928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.32583547" />
       <window_info id="Structure" order="1" sideWeight="0.30349344" side_tool="true" weight="0.24550128" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -709,18 +732,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Team" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.5397039" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.16823688" />
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.39973083" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.5154778" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4993573" weight="0.39434725" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993573" weight="0.2974428" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993573" weight="0.34454912" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50064266" side_tool="true" weight="0.2678331" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -817,12 +840,6 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/aop/AopAspect.java</url>
           <line>46</line>
           <properties />
@@ -842,18 +859,6 @@
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java</url>
-          <line>657</line>
-          <properties />
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/proxy/cglib/ProxyFactory.java</url>
           <line>30</line>
           <properties />
@@ -864,30 +869,6 @@
           <line>95</line>
           <properties />
           <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
-          <line>138</line>
-          <properties />
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
-          <line>152</line>
-          <properties />
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
-          <line>177</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
-          <line>438</line>
-          <properties />
-          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/ExtensionLoader.java</url>
@@ -912,6 +893,18 @@
           <line>219</line>
           <properties />
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java</url>
+          <line>159</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -978,281 +971,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/AdaptiveClassCodeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4587">
-          <caret line="168" selection-start-line="168" selection-end-line="168" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/spring/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/BaseConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyBeanDeifnition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/SimpleBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/SpringbootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/spring/enable/EnableMyConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/spring/enable/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/spring/enable/HelloWorld2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/spring/enable/HelloWorldImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="10" column="63" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/spring/enable/MyConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyImport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/SpringbootApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/BaseConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImportBeanDefinitionRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImport.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/SimpleBean.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyBeanDeifnition.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SpringsecurityApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/FrameApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/security/LoginFilterProcessingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-406">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.java.Robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/services/com.frame.dubbo.spi.java.Robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/ExtensionLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="521" lean-forward="true" selection-start-line="521" selection-end-line="521" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.dubbo.AdaptiveExt2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/DubboAdaptiveExt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/ThriftAdaptiveExt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Bumblebee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/OptimusPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/AdaptiveExt2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1314,6 +1036,327 @@
           <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/BaseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyBeanDeifnition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImportBeanDefinitionRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/security/LoginFilterProcessingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SpringsecurityApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusNioServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/common/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/common/BaseInputEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-490">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.4.0/mybatis-plus-extension-3.4.0.jar!/com/baomidou/mybatisplus/extension/api/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1930">
+          <caret line="411" column="23" selection-start-line="411" selection-start-column="23" selection-end-line="411" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/BaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2525">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/resources/mybatis/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/mybatis/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-587">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="25" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/src/main/resources/mybatisPlus">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/mybatisPlus">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/java/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="121" column="21" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/dto/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret column="33" selection-start-column="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.10.RELEASE/spring-beans-5.2.10.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="1233" column="34" selection-start-line="1233" selection-start-column="17" selection-end-line="1233" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/HikariDataSourceForProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/ImportConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/mybatisplus/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/annotation/MapperScans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/annotation/MapperScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/annotation/MapperScannerRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3435">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.5.RELEASE/spring-boot-autoconfigure-2.3.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="252" selection-start-line="252" selection-end-line="252" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.10.RELEASE/spring-aop-5.2.10.RELEASE.jar!/org/springframework/aop/framework/ProxyCreatorSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.10.RELEASE/spring-aop-5.2.10.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="453" column="35" lean-forward="true" selection-start-line="453" selection-start-column="35" selection-end-line="453" selection-end-column="35" />
+          <folding>
+            <element signature="e#22256#22257#0" expanded="true" />
+            <element signature="e#22302#22303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/MybatisPlusNioServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/FrameApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
           </folding>
         </state>
       </provider>

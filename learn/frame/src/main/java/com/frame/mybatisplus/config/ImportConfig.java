@@ -1,6 +1,5 @@
-package com.mybatisplus.config;
+package com.frame.mybatisplus.config;
 
-import com.mybatisplus.config.HikariDataSourceForProxyConfig;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 

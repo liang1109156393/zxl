@@ -1,4 +1,4 @@
-package com.mybatisplus.common;
+package com.frame.mybatisplus.common;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.IdType;
@@ -11,19 +11,19 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @description: id自增
+ * @description: id implements Serializable
  * @author: zxl
- * @create: 2020-10-16 13:41
+ * @create: 2020-10-16 13:58
  **/
 @Data
 @Accessors(chain = true)
-public class BaseEntity implements Serializable {
+public class BaseInputEntity implements Serializable {
 
-    private static final long serialVersionUID = -2101342191284527082L;
+    private static final long serialVersionUID = -6707479883421458981L;
     /**
      * 主键id
      */
-    @TableId(value = "id", type = IdType.AUTO)
+    @TableId(value = "id", type = IdType.INPUT)
     private Long id;
 
     /**
