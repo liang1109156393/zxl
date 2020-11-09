@@ -18,9 +18,7 @@ import java.util.List;
  * @create: 2020-10-16 14:24
  **/
 @RunWith(SpringRunner.class)
-
 @SpringBootTest(classes = FrameApplication.class)
-
 public class MybatisPlusNioServer {
 
     @Autowired

@@ -1,11 +1,10 @@
-package com.frame.spring;
+package com.frame;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
 @Slf4j
 public class Application {
     @Value("${name}")
