@@ -1,4 +1,4 @@
-package com.example.demo.life;
+package com.frame.spring.life;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

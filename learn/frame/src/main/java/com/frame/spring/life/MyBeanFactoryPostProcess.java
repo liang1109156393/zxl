@@ -1,4 +1,4 @@
-package com.example.demo.life;
+package com.frame.spring.life;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.MutablePropertyValues;

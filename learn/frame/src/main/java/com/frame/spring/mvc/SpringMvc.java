@@ -1,4 +1,4 @@
-package com.example.demo.mvc;
+package com.frame.spring.mvc;
 
 /**
  * @description:

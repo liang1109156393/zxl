@@ -1,36 +1,32 @@
 package com.frame.spring;
+
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.CommandLineRunner;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
 @Slf4j
 public class Application {
-	@Value("${name}")
-	private String name ;
-	/**
-	 * Spring中四种实例化bean的方式
-	 * 1、使用构造器实例化Bean
-	 * 2、使用静态工厂方式实例化Bean
-	 * 3、使用实例工厂方法实例化Bean
-	 * 4、用 setter 方式
-	 *
-	 * Spring 注入方式
-	 * 1、构造函数
-	 * 2、set方法
-	 *
-	 * */
-	public static void main(String[] args) {
+    @Value("${name}")
+    private String name;
 
-		BeanUtils.instantiateClass(Application.class);
+    /**
+     * Spring中四种实例化bean的方式
+     * 1、使用构造器实例化Bean
+     * 2、使用静态工厂方式实例化Bean
+     * 3、使用实例工厂方法实例化Bean
+     * 4、用 setter 方式
+     * <p>
+     * Spring 注入方式
+     * 1、构造函数
+     * 2、set方法
+     */
+    public static void main(String[] args) {
+
+        BeanUtils.instantiateClass(Application.class);
 	/*	life();
-		enable();*/
+		enable();
 	}
 
 	/*public static void life(){
@@ -54,4 +50,5 @@ public class Application {
 	}*/
 
 
+    }
 }

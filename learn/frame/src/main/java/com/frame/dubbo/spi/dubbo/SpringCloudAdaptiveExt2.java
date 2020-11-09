@@ -1,5 +1,6 @@
-package com.example.dubbo.spi.dubbo;
+package com.frame.dubbo.spi.dubbo;
 
+import com.frame.dubbo.spi.dubbo.AdaptiveExt2;
 import org.apache.dubbo.common.URL;
 import org.apache.dubbo.common.extension.Adaptive;
 
