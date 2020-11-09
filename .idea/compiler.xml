@@ -7,12 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java" />
-        <module name="springsecurity" />
-        <module name="dubbo" />
-        <module name="springboot" />
-        <module name="spring" />
-        <module name="bigdata" />
         <module name="curator" />
+        <module name="bigdata" />
+        <module name="frame" />
         <module name="flink-basis-java" />
       </profile>
     </annotationProcessing>
@@ -22,6 +19,7 @@
       <module name="curator" target="8" />
       <module name="dubbo" target="1.8" />
       <module name="flink-basis-java" target="1.8" />
+      <module name="frame" target="1.8" />
       <module name="java" target="1.8" />
       <module name="learn" target="1.8" />
       <module name="spring" target="1.8" />
@@ -35,6 +33,7 @@
       <module name="bigdata" options="-parameters" />
       <module name="cloud" options="-parameters" />
       <module name="dubbo" options="-parameters" />
+      <module name="frame" options="-parameters" />
       <module name="java" options="-parameters" />
       <module name="learn" options="-parameters" />
       <module name="spring" options="-parameters" />

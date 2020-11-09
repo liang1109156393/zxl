@@ -8,13 +8,10 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/learn/spring/pom.xml" />
         <option value="$PROJECT_DIR$/learn/java/pom.xml" />
         <option value="$PROJECT_DIR$/learn/bigdata/pom.xml" />
         <option value="$PROJECT_DIR$/learn/bigdata/Zookeeper/curator/pom.xml" />
-        <option value="$PROJECT_DIR$/learn/springboot/pom.xml" />
-        <option value="$PROJECT_DIR$/learn/dubbo/pom.xml" />
-        <option value="$PROJECT_DIR$/learn/springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/learn/frame/pom.xml" />
       </list>
     </option>
   </component>
