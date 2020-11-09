@@ -1,9 +1,9 @@
-package com.example.dubbo.spi;
+package com.frame.dubbo.spi;
 
+import com.frame.dubbo.spi.java.Robot;
 import org.junit.Test;
 
 import java.util.ServiceLoader;
-import com.example.dubbo.spi.java.Robot;
 /**
  * @description:
  * @author: zxl

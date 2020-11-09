@@ -1,4 +1,4 @@
-package com.example.dubbo.spi;
+package com.frame.dubbo.spi;
 
 import com.example.dubbo.spi.dubbo.AdaptiveExt2;
 import org.apache.dubbo.common.URL;

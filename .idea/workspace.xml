@@ -2,86 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ebece6-6dbd-489a-9074-5aa6d0ff4d61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.dubbo.AdaptiveExt2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/DubboApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboSpiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/JavaSpiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/AdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboAdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/DubboAdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/SpringCloudAdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/ThriftAdaptiveExt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/ThriftAdaptiveExt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Bumblebee.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Bumblebee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/OptimusPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/OptimusPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/java/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dubbo/src/test/java/com/example/dubbo/DubboApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/enable/EnableMyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/enable/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/enable/HelloWorld2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/enable/HelloWorldImportSelector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/enable/MyConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyBeanFactoryPostProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanFactoryPostProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/MyInstantiationAwareBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/MyInstantiationAwareBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/life/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/java/com/example/demo/mvc/SpringMvc.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/mvc/SpringMvc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/spring/src/test/java/com/example/demo/ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/BaseConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/BaseConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyAutoConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyBeanDeifnition.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyBeanDeifnition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyImportBeanDefinitionRegistrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImportBeanDefinitionRegistrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/MyImportSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/MyImportSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/SimpleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/SimpleBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/java/com/example/springboot/SpringbootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springboot/SpringbootApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/resources/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springboot/src/test/java/com/example/springboot/SpringbootApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SpringsecurityApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/security/LoginFilterProcessingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/security/LoginFilterProcessingFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/springsecurity/src/test/java/com/example/springsecurity/SpringsecurityApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/JavaSpiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/JavaSpiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Bumblebee.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Bumblebee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/OptimusPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/OptimusPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.java.Robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/services/com.frame.dubbo.spi.java.Robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/spring.factories" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/learn/spring/target/" />
     <ignored path="$PROJECT_DIR$/learn/springmvc/target/" />
@@ -105,7 +50,107 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/JavaSpiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Bumblebee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-242">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.dubbo.AdaptiveExt2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.java.Robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/services/com.frame.dubbo.spi.java.Robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/OptimusPrime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -157,18 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn/cloud/pom.xml" />
-        <option value="$PROJECT_DIR$/learn/cloud/src/main/java/com/example/SpringCloudApplication.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/single/SingleTest.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/thread/JavaKeyWordTest.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/thread/Thread.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/thread/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/io/Book.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/io/Test.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/io/NioServer.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/io/NioClient.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/collection/ArrayListTest.java" />
-        <option value="$PROJECT_DIR$/learn/java/src/main/java/com/mybatisplus/MybatisPlusNioServer.java" />
         <option value="$PROJECT_DIR$/learn/springsecurity/pom.xml" />
         <option value="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/security/LoginFilterProcessingFilter.java" />
@@ -208,6 +241,18 @@
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/spring/enable/HelloWorldImportSelector.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/springboot/MyAutoConfiguration.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/example/frame/springsecurity/SpringsecurityApplication.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExt2" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/Person.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/OptimusPrime.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/JavaSpiTest.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Bumblebee.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.java.Robot" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/services/com.frame.dubbo.spi.java.Robot" />
       </list>
     </option>
   </component>
@@ -306,22 +351,117 @@
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="zxl" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zxl" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zxl" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="spi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="life" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="springsecurity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zxl" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -377,13 +517,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DubboAdaptiveExtion">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.Application" />
-      <module name="spring" />
+  <component name="RunManager" selected="Application.DubboAdaptiveExtion (1)">
+    <configuration name="DubboAdaptiveExtion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.frame.dubbo.spi.DubboAdaptiveExtion" />
+      <module name="frame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.frame.dubbo.spi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,39 +557,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.design.proxy.JdkProxy.dynamicProxy.Test" />
-      <module name="java" />
+    <configuration name="DubboSpiTest.sayHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="frame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.design.proxy.JdkProxy.dynamicProxy.*" />
+          <option name="PATTERN" value="com.example.dubbo.spi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.frame.dubbo.spi" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.DubboSpiTest" />
+      <option name="METHOD_NAME" value="sayHello" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.design.proxy.cglib.Test" />
-      <module name="java" />
+    <configuration name="JavaSpiTest.sayHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="frame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.design.proxy.cglib.*" />
+          <option name="PATTERN" value="com.example.dubbo.spi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.frame.dubbo.spi" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dubbo.spi.JavaSpiTest" />
+      <option name="METHOD_NAME" value="sayHello" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DubboAdaptiveExtion (1)" />
+        <item itemvalue="JUnit.DubboSpiTest.sayHello" />
+        <item itemvalue="JUnit.JavaSpiTest.sayHello" />
         <item itemvalue="Application.DubboAdaptiveExtion" />
         <item itemvalue="Application.HashMapTest" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -470,15 +616,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 06m 36s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.10.26 at 10h 07m 18s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 13h 44m 57s.xml">
-      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.04 at 13h 49m 38s.xml">
       <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
     </history-entry>
@@ -500,9 +637,19 @@
     <history-entry file="JavaApplicationTests_testAop - 2020.11.05 at 10h 41m 55s.xml">
       <configuration name="JavaApplicationTests.testAop" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JavaSpiTest_sayHello - 2020.11.09 at 09h 16m 23s.xml">
+      <configuration name="JavaSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubboSpiTest_sayHello - 2020.11.09 at 09h 16m 35s.xml">
+      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubboSpiTest_sayHello - 2020.11.09 at 09h 18m 11s.xml">
+      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.24742931" />
       <window_info id="Structure" order="1" sideWeight="0.30349344" side_tool="true" weight="0.24550128" />
@@ -512,18 +659,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Team" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.5397039" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.16823688" />
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.13997309" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.49932706" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4993573" weight="0.39434725" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993573" weight="0.2974428" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993573" weight="0.24495289" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50064266" side_tool="true" weight="0.2678331" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -815,53 +962,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/JavaSpiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/services/com.example.dubbo.spi.java.Robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboSpiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="21" column="71" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3-sources.jar!/org/apache/dubbo/common/extension/Adaptive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="47" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/SpringCloudAdaptiveExtProvider.java" />
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/ThriftAdaptiveExtProvider.java" />
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/AdaptiveExtProvider.java" />
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/dubbo/DubboAdaptiveExtProvider.java" />
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.dubbo.AdaptiveExtPorvider" />
-    <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/DubboApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/java/com/example/dubbo/spi/DubboAdaptiveExtion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -932,29 +1032,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/dubbo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.example.dubbo.spi.java.Robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/spring/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -1068,21 +1147,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/security/LoginFilterProcessingFilter.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/springsecurity/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1091,6 +1161,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/FrameApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/dubbo/AdaptiveExt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/security/LoginFilterProcessingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/life/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2636">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/spring/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboSpiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/OptimusPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/JavaSpiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/java/Bumblebee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/dubbo/spi/DubboAdaptiveExtion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.dubbo.AdaptiveExt2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/dubbo/com.frame.dubbo.spi.java.Robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/META-INF/services/com.frame.dubbo.spi.java.Robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>

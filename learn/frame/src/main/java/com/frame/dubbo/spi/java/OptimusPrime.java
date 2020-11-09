@@ -1,4 +1,4 @@
-package com.example.dubbo.spi.java;
+package com.frame.dubbo.spi.java;
 /**
  * @description:
  * @author: zxl

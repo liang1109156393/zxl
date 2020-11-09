@@ -1,3 +1,0 @@
-dubbo=com.example.dubbo.spi.dubbo.DubboAdaptiveExt2
-cloud=com.example.dubbo.spi.dubbo.SpringCloudAdaptiveExt2
-thrift=com.example.dubbo.spi.dubbo.ThriftAdaptiveExt2

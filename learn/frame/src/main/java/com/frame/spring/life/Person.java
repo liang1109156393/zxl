@@ -1,4 +1,4 @@
-package com.example.demo.life;
+package com.frame.spring.life;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.*;
@@ -24,17 +24,9 @@ public class Person implements BeanFactoryAware, BeanNameAware, InitializingBean
     private String desc;
     private String remark;
 
-    public User getUser() {
-        return user;
-    }
-
-    public void setUser(User user) {
-        this.user = user;
-    }
 
     @Autowired
-    @Qualifier("user1")
-    private User user;
+
     public Person() {
         System.out.println("第六步: 实例化person ---------->构造函数");
     }

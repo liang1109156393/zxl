@@ -1,9 +1,4 @@
-package com.example.demo;
-
-import com.example.demo.enable.EnableMyConfig;
-import com.example.demo.enable.HelloWorld;
-import com.example.demo.enable.HelloWorld2;
-import com.example.demo.life.Person;
+package com.frame.spring;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Value;
@@ -15,7 +10,6 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
-@EnableMyConfig
 @Slf4j
 public class Application {
 	@Value("${name}")
@@ -35,11 +29,11 @@ public class Application {
 	public static void main(String[] args) {
 
 		BeanUtils.instantiateClass(Application.class);
-		life();
-		enable();
+	/*	life();
+		enable();*/
 	}
 
-	public static void life(){
+	/*public static void life(){
 		ConfigurableApplicationContext run = new SpringApplication(Application.class).run();
 		Person person = (Person)run.getBean("person");
 		String userName = person.getUser().getUserName();
@@ -57,7 +51,7 @@ public class Application {
 		System.out.println(bean.name);
 
 		log.info(context.getBean("testBean", String.class));
-	}
+	}*/
 
 
 }

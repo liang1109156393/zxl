@@ -1,6 +1,6 @@
-package com.example.dubbo.spi;
+package com.frame.dubbo.spi;
 
-import com.example.dubbo.spi.java.Robot;
+import com.frame.dubbo.spi.java.Robot;
 import org.apache.dubbo.common.extension.ExtensionLoader;
 import org.junit.Test;
 

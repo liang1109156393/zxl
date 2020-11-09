@@ -1,0 +1,5 @@
+// key-value形式,key为自定义名称，value为接口实现类的包名加类名
+// 文件名为接口的包名加接口名
+dubbo=com.frame.dubbo.spi.dubbo.DubboAdaptiveExt2
+cloud=com.frame.dubbo.spi.dubbo.SpringCloudAdaptiveExt2
+thrift=com.frame.dubbo.spi.dubbo.ThriftAdaptiveExt2
