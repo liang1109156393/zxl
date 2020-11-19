@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ebece6-6dbd-489a-9074-5aa6d0ff4d61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_53_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_53_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_53_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_53_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_53_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_53_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" afterDir="false" />
     </list>
@@ -52,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="107">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,9 +42,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/HashOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/DefaultHashOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="795" column="33" selection-start-line="795" selection-start-column="33" selection-end-line="795" selection-end-column="33" />
+              <folding>
+                <element signature="e#29389#29390#0" expanded="true" />
+                <element signature="e#29425#29426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
+            <state relative-caret-position="132">
               <caret line="252" selection-start-line="252" selection-end-line="252" />
             </state>
           </provider>
@@ -83,10 +109,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk/src.zip!/java/util/Arrays.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/connection/DefaultStringRedisConnection.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="3828" selection-start-line="3828" selection-end-line="3828" />
+            <state relative-caret-position="220">
+              <caret line="257" column="23" selection-start-line="257" selection-start-column="23" selection-end-line="257" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -94,61 +120,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
+            <state relative-caret-position="234">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/serializer/GenericJackson2JsonRedisSerializer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-              <folding>
-                <element signature="e#1000#1001#0" expanded="true" />
-                <element signature="e#1034#1035#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="124" column="50" selection-start-line="124" selection-start-column="50" selection-end-line="124" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn/frame/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/mybatisPlus">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -251,11 +227,11 @@
         <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/adapter/ObjectAdaptee.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/elasticsearch/ElasticsearchTest.java" />
         <option value="$PROJECT_DIR$/learn/java/src/main/java/com/basic/lock/LockTest.java" />
-        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/GrableConfig.java" />
         <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisConfig.java" />
         <option value="$PROJECT_DIR$/learn/frame/pom.xml" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java" />
       </list>
     </option>
   </component>
@@ -372,62 +348,6 @@
             <path>
               <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.data:spring-data-redis:2.3.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.data:spring-data-redis:2.3.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-redis-2.3.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.data:spring-data-redis:2.3.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-redis-2.3.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.data:spring-data-redis:2.3.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-redis-2.3.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.data:spring-data-redis:2.3.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-redis-2.3.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.data:spring-data-redis:2.3.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-redis-2.3.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zxl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.data:spring-data-redis:2.3.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-redis-2.3.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-              <item name="serializer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -586,34 +506,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MybatisPlusNioServer_testPage - 2020.11.09 at 14h 27m 42s.xml">
-      <configuration name="MybatisPlusNioServer.testPage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubboSpiTest_sayHello - 2020.11.09 at 14h 28m 23s.xml">
-      <configuration name="DubboSpiTest.sayHello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.09 at 14h 52m 26s.xml">
-      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MybatisPlusNioServer_testSelect - 2020.11.09 at 14h 53m 41s.xml">
-      <configuration name="MybatisPlusNioServer.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RedisTest_redis - 2020.11.18 at 14h 44m 07s.xml">
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 09m 05s.xml">
       <configuration name="RedisTest.redis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_redis - 2020.11.18 at 14h 47m 18s.xml">
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 09m 30s.xml">
       <configuration name="RedisTest.redis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_redis - 2020.11.18 at 15h 05m 40s.xml">
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 25m 34s.xml">
       <configuration name="RedisTest.redis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_redis - 2020.11.18 at 15h 09m 04s.xml">
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 33m 58s.xml">
       <configuration name="RedisTest.redis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_redis - 2020.11.18 at 15h 10m 21s.xml">
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 34m 44s.xml">
       <configuration name="RedisTest.redis" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_redis - 2020.11.18 at 15h 12m 16s.xml">
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 36m 09s.xml">
+      <configuration name="RedisTest.redis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 39m 51s.xml">
+      <configuration name="RedisTest.redis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 48m 18s.xml">
+      <configuration name="RedisTest.redis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 50m 03s.xml">
+      <configuration name="RedisTest.redis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_redis - 2020.11.18 at 16h 51m 49s.xml">
       <configuration name="RedisTest.redis" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -621,7 +541,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.283419" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.22236504" />
       <window_info id="Structure" order="1" sideWeight="0.30349344" side_tool="true" weight="0.24550128" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -633,15 +553,15 @@
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.47779274" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4993573" weight="0.47240916" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.6783311" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" sideWeight="0.4993573" visible="true" weight="0.39300135" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50064266" side_tool="true" weight="0.2678331" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4993573" weight="0.2732167" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4993573" weight="0.20861372" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -655,7 +575,7 @@
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32969153" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.3303342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6978261" visible="true" weight="0.283419" />
       <window_info id="Structure" order="1" sideWeight="0.30349344" side_tool="true" weight="0.24550128" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -667,15 +587,15 @@
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.4589502" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4993573" weight="0.3257066" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.6783311" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4993573" weight="0.47240916" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50064266" side_tool="true" weight="0.2678331" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4993573" weight="0.12382234" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4993573" visible="true" weight="0.20861372" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -771,12 +691,6 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyCreatorSupport.java</url>
-          <line>101</line>
-          <properties />
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <condition expression="beanName.equals(&quot;aopMethod&quot;)" language="JAVA" />
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java</url>
           <line>246</line>
@@ -814,18 +728,6 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java</url>
-          <line>159</line>
-          <properties />
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java</url>
-          <line>252</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/learn/frame/src/test/java/com/frame/MybatisPlusNioServer.java</url>
           <line>40</line>
           <properties />
@@ -845,7 +747,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java</url>
-          <line>26</line>
+          <line>37</line>
           <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
@@ -920,99 +822,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/springsecurity/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/collection/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/adapter/Target.java" />
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/adapter/Adapter.java" />
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/classload/ClassLoadParent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20988">
-          <caret line="677" selection-start-line="677" selection-end-line="677" />
-          <folding>
-            <element signature="e#19072#19073#0" expanded="true" />
-            <element signature="e#19130#19131#0" expanded="true" />
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-            <element signature="e#66531#66532#0" expanded="true" />
-            <element signature="e#66588#66589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/classload/ClassLoadChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/adapter/ClassAdaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/design/adapter/ObjectAdaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="29" column="1" selection-start-line="17" selection-start-column="44" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/JavaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/classload/TestClassLoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn/java/src/main/java/com/basic/thread/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -1243,41 +1052,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/jdk/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="3828" selection-start-line="3828" selection-end-line="3828" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="252" selection-start-line="252" selection-end-line="252" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.10.RELEASE/spring-aop-5.2.10.RELEASE.jar!/org/springframework/aop/framework/ProxyCreatorSupport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
@@ -1292,21 +1070,133 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="134" column="43" lean-forward="true" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/connection/RedisStringCommands.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/serializer/ByteArrayRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/serializer/SerializationUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/AbstractOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="154" column="90" selection-start-line="154" selection-start-column="79" selection-end-line="154" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/DefaultZSetOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/connection/jedis/JedisClusterStringCommands.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="230" column="23" selection-start-line="230" selection-start-column="23" selection-end-line="230" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/connection/DefaultStringRedisConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="257" column="23" selection-start-line="257" selection-start-column="23" selection-end-line="257" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="234">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/frame/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.0/mybatis-plus-boot-starter-3.4.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+        <state relative-caret-position="132">
+          <caret line="252" selection-start-line="252" selection-end-line="252" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.10.RELEASE/spring-aop-5.2.10.RELEASE.jar!/org/springframework/aop/framework/ProxyCreatorSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="795" column="33" selection-start-line="795" selection-start-column="33" selection-end-line="795" selection-end-column="33" />
+          <folding>
+            <element signature="e#29389#29390#0" expanded="true" />
+            <element signature="e#29425#29426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/HashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/DefaultHashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.5.RELEASE/spring-data-redis-2.3.5.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/frame/src/main/java/com/frame/redis/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

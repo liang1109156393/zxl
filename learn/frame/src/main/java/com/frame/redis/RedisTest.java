@@ -8,6 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.util.Map;
 import java.util.Set;
 
 /**
@@ -22,7 +23,17 @@ public class RedisTest {
     private StringRedisTemplate stringRedisTemplate;
     @Test
     public void redis(){
+        /** redis数据结构:String list set hash zset
+         *
+         * */
+
+
         Set<String> range = stringRedisTemplate.opsForZSet().range("zxlTest", 0, -1);
+        Map<Object, Object> entries = stringRedisTemplate.opsForHash().entries("RACE:CONFIG");
+        Set<Object> keys = stringRedisTemplate.opsForHash().keys("RACE:CONFIG");
+        Object base_1_protect = stringRedisTemplate.opsForHash().get("RACE:CONFIG", "base_1_protect");
+        Long size = stringRedisTemplate.opsForHash().size("RACE:CONFIG");
+
         range.forEach(f->System.out.println(f));
         System.out.println("redis--------------test");
     }
