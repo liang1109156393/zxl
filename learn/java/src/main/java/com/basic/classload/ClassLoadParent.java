@@ -11,6 +11,9 @@ public class ClassLoadParent {
     public ClassLoadParent() {
         System.out.println("父类构造方法");
     }
+    public ClassLoadParent(String name) {
+        System.out.println("父类构造方法 name");
+    }
 
     static {
         a = 1;

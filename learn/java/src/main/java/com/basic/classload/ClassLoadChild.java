@@ -9,6 +9,7 @@ public class ClassLoadChild extends ClassLoadParent {
     public static int b = 10;
 
     public ClassLoadChild() {
+        super("zxl");
         System.out.println("子类构造方法");
     }
 
